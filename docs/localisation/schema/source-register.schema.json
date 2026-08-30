@@ -5,7 +5,6 @@
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "source_id",
     "authority_name",
     "authority_type",
     "authority_evidence_url",
@@ -23,7 +22,6 @@
     "content_hash"
   ],
   "properties": {
-    "source_id": { "type": "string", "pattern": "^SRC-[0-9]{4}$" },
     "authority_name": {
       "type": "string",
       "enum": ["ACARA", "QCAA", "NCCD", "Queensland Department of Education"]
