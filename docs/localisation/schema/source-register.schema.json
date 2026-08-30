@@ -24,7 +24,10 @@
   ],
   "properties": {
     "source_id": { "type": "string", "pattern": "^SRC-[0-9]{4}$" },
-    "authority_name": { "type": "string", "minLength": 1 },
+    "authority_name": {
+      "type": "string",
+      "enum": ["ACARA", "QCAA", "NCCD", "Queensland Department of Education"]
+    },
     "authority_type": {
       "type": "string",
       "enum": ["statutory curriculum authority", "government department/agency", "official national education program"]
