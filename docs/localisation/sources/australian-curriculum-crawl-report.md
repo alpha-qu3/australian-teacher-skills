@@ -38,7 +38,7 @@ The final bounded re-fetch used `curl --location`, HTTP status 200, and SHA-256 
 | Result | Count |
 |---|---:|
 | Successful registered URLs | 14 |
-| Source records | 15 |
+| Source records | 14 |
 | Redirects observed | 0 |
 | PDFs registered | 0 |
 | Parse failures | 0 |
