@@ -1,7 +1,7 @@
 # Australian Curriculum Version 9.0 Crawl Report
 
-**Retrieved:** 2026-08-30  
-**Root:** https://www.australiancurriculum.edu.au/  
+**Retrieved:** 2026-08-30
+**Root:** https://www.australiancurriculum.edu.au/
 **Scope:** Australian Curriculum Version 9.0, Foundation to Year 10
 
 ## Authority and Version
