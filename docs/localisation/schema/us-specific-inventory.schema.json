@@ -35,7 +35,7 @@
     "why_specific": { "type": "string", "minLength": 1 },
     "neutral_core": { "type": "string", "minLength": 1 },
     "action_hint": { "type": "string", "enum": ["retain", "replace", "rename", "remove", "split", "review"] },
-    "downstream_files": { "type": "array", "items": { "type": "string" } },
+    "downstream_files": { "type": "string", "minLength": 1, "description": "Pipe-delimited repository-relative paths." },
     "evidence_status": { "type": "string", "enum": ["direct", "inferred", "needs-domain-review"] }
   }
 }
