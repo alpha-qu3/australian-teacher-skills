@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/anthropics/k12-teacher-skills/localisation/source-register.schema.json",
+  "title": "Authority-verified curriculum source row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_id",
+    "authority_name",
+    "authority_type",
+    "authority_evidence_url",
+    "publication_owner",
+    "authority_verification_status",
+    "jurisdiction",
+    "school_phase",
+    "learning_area_or_subject",
+    "document_title",
+    "version_or_effective_year",
+    "url",
+    "locator",
+    "licence",
+    "retrieval_date",
+    "content_hash"
+  ],
+  "properties": {
+    "source_id": { "type": "string", "pattern": "^SRC-[0-9]{4}$" },
+    "authority_name": { "type": "string", "minLength": 1 },
+    "authority_type": {
+      "type": "string",
+      "enum": ["statutory curriculum authority", "government department/agency", "official national education program"]
+    },
+    "authority_evidence_url": { "type": "string", "format": "uri" },
+    "publication_owner": { "type": "string", "minLength": 1 },
+    "authority_verification_status": { "type": "string", "const": "verified" },
+    "jurisdiction": { "type": "string", "enum": ["Australia", "Queensland"] },
+    "school_phase": { "type": "string", "enum": ["F-10", "Years 11-12", "F-12", "cross-phase"] },
+    "learning_area_or_subject": { "type": "string", "minLength": 1 },
+    "document_title": { "type": "string", "minLength": 1 },
+    "version_or_effective_year": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "format": "uri" },
+    "locator": { "type": "string", "minLength": 1 },
+    "licence": { "type": "string", "minLength": 1 },
+    "retrieval_date": { "type": "string", "format": "date" },
+    "content_hash": { "type": "string", "pattern": "^sha256:[a-f0-9]{64}$" }
+  }
+}

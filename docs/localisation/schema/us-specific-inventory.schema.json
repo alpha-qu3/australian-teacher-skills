@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/anthropics/k12-teacher-skills/localisation/us-specific-inventory.schema.json",
+  "title": "US-specific inventory row",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "inventory_id",
+    "path",
+    "line_or_section",
+    "artifact_type",
+    "exact_text",
+    "specificity_class",
+    "us_framework",
+    "why_specific",
+    "neutral_core",
+    "action_hint",
+    "downstream_files",
+    "evidence_status"
+  ],
+  "properties": {
+    "inventory_id": { "type": "string", "pattern": "^US-[0-9]{4}$" },
+    "path": { "type": "string", "minLength": 1 },
+    "line_or_section": { "type": "string", "minLength": 1 },
+    "artifact_type": {
+      "type": "string",
+      "enum": ["skill", "tool-config", "reference", "script", "eval", "plugin-metadata", "documentation", "legal"]
+    },
+    "exact_text": { "type": "string", "minLength": 1 },
+    "specificity_class": {
+      "type": "string",
+      "enum": ["standard", "law-policy", "grade-band", "subject-label", "locale", "tool-data", "example", "eval-assumption"]
+    },
+    "us_framework": { "type": "string", "minLength": 1 },
+    "why_specific": { "type": "string", "minLength": 1 },
+    "neutral_core": { "type": "string", "minLength": 1 },
+    "action_hint": { "type": "string", "enum": ["retain", "replace", "rename", "remove", "split", "review"] },
+    "downstream_files": { "type": "array", "items": { "type": "string" } },
+    "evidence_status": { "type": "string", "enum": ["direct", "inferred", "needs-domain-review"] }
+  }
+}
