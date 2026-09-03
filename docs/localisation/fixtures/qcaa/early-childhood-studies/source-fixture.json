@@ -30,8 +30,7 @@
       "locator": "HTML page / Syllabus and Resources sections; last updated 13 September 2024",
       "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "retrieval_date": "2026-09-02",
-      "content_hash": "sha256:c6b1e6e73506bcd1266451b36c3373b2ea26942fff56a75c651788e5327bc011",
-      "status": "current"
+      "content_hash": "sha256:c6b1e6e73506bcd1266451b36c3373b2ea26942fff56a75c651788e5327bc011"
     },
     {
       "authority_name": "QCAA",
@@ -48,8 +47,7 @@
       "locator": "PDF (53 pages; page-catalogued 690.0 KB)",
       "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
       "retrieval_date": "2026-09-02",
-      "content_hash": "sha256:23ea1845c06530914ff072bbeb4fbbd5d404931beee68e7af4938799ba838085",
-      "status": "current"
+      "content_hash": "sha256:23ea1845c06530914ff072bbeb4fbbd5d404931beee68e7af4938799ba838085"
     }
   ],
   "current_vs_superseded": {
