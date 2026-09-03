@@ -1,0 +1,107 @@
+{
+  "fixture_id": "qcaa-arts-in-practice-source-fixture",
+  "qsub_id": "QSUB-0009",
+  "subject": "Arts in Practice",
+  "authority": {
+    "authority_name": "QCAA",
+    "authority_type": "statutory curriculum authority",
+    "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+    "publication_owner": "Queensland Curriculum and Assessment Authority",
+    "authority_verification_status": "verified"
+  },
+  "classification": {
+    "current": [
+      "Arts in Practice 2024 v1.2 Applied senior syllabus (HTML subject page and syllabus PDF)"
+    ],
+    "current_support": [
+      "Sample assessment instrument: Project (Unit 3), 2019 v1.0",
+      "Sample assessment instrument: Product (Artwork) \u2014 Innovation (Unit 4), 2019 v1.0"
+    ],
+    "superseded": [],
+    "historical_external_assessment": []
+  },
+  "locator_purpose": {
+    "sources_locator": "Full-source locator for the complete registered HTML or PDF source.",
+    "curriculum_manifest": "Extracted-fields locators identify the PDF pages used for individual structured fields."
+  },
+  "current_sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Arts in Practice Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/arts-in-practice",
+      "locator": "HTML: #content; Syllabus section lists Arts in Practice Applied senior syllabus 2024 v1.2 for students completing the course in 2025 or beyond; Resources section lists two sample assessment instruments; last updated 13 September 2024",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02",
+      "content_hash": "sha256:9e0d65f572c6a3cd5cca5fb455379a7e3e0d4a302412a54584273b4aabb255ed"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Arts in Practice 2024 v1.2 Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_arts_prac_24_app_syll.pdf",
+      "locator": "PDF (588.7 KB): cover and p. 2 (syllabus identity, licence, copyright); p. 3 (syllabus objectives); pp. 4-13 (course structure, assessment, reporting); pp. 14-25 (unit options A-D); pp. 26-47 (assessment specifications and instrument-specific standards); p. 48 (glossary, references, version history)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02",
+      "content_hash": "sha256:8d81c20a10bc3c2453767d04b2b8b13d338f89a4bea4a3d60f7b392c8740950e"
+    }
+  ],
+  "support_sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Sample assessment instrument: Project (Unit 3)",
+      "version_or_effective_year": "2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/arts/snr_arts_prac_19_app_smple_ass_inst_project.pdf",
+      "locator": "PDF (103.5 KB): current assessment-support resource listed in the Resources section of the current Arts in Practice page; Project instrument for Unit 3",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02",
+      "content_hash": "sha256:922b9f3d22a8f9d2382e187981f0571cce6501bd52d7e0106623b61bf212d3ba"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Sample assessment instrument: Product (Artwork) \u2014 Innovation (Unit 4)",
+      "version_or_effective_year": "2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/arts/snr_arts_prac_19_app_smple_ass_inst_product.pdf",
+      "locator": "PDF (229.5 KB): current assessment-support resource listed in the Resources section of the current Arts in Practice page; Product instrument for Unit 4",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02",
+      "content_hash": "sha256:2d191cbe474209bd27642ace98bcb72ae3c11b9857efc90dde85d432c3bbe32b"
+    }
+  ],
+  "curriculum_metadata": {
+    "subject_family": "The Arts",
+    "course_type": "Applied",
+    "current_version": "2024 v1.2",
+    "effective_year": "students completing the course in 2025 or beyond",
+    "school_phase": "Years 11-12",
+    "jurisdiction": "Queensland"
+  }
+}
