@@ -28,25 +28,8 @@
       "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/economics",
       "locator": "HTML page / syllabus navigation section",
       "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "retrieval_date": "2026-09-02",
-      "content_hash": "sha256:1d4b9bc472e50f8b117131d29171d2c7c0ec3022eb7088e64d3fe339f86ec389"
-    },
-    {
-      "authority_name": "QCAA",
-      "authority_type": "statutory curriculum authority",
-      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
-      "publication_owner": "Queensland Curriculum and Assessment Authority",
-      "authority_verification_status": "verified",
-      "jurisdiction": "Queensland",
-      "school_phase": "Years 11-12",
-      "learning_area_or_subject": "Humanities and Social Sciences",
-      "document_title": "Economics 2025 v1.4 General senior syllabus PDF",
-      "version_or_effective_year": "2025 v1.4",
-      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_economics_25_syll.pdf",
-      "locator": "PDF (609.0 KB)",
-      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
-      "retrieval_date": "2026-09-02",
-      "content_hash": "sha256:6a5219ab77f32c718e99319a33cb0254b5f5dc7e3e12097b6fb2ae3b69bcc857"
+      "retrieval_date": "2026-09-04",
+      "content_hash": "sha256:351b50946f3010279cc184d9a3292c3b74dffcec3b9df00b8f187f4ba9f1e2e2"
     }
   ],
   "validation_rules": {
