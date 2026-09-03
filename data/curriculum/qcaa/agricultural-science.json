@@ -1,0 +1,148 @@
+{
+  "qsub_id": "QSUB-0006",
+  "slug": "agricultural-science",
+  "name": "Agricultural Science",
+  "subject_family": "Sciences",
+  "course_type": "General",
+  "official_page_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/agricultural-science",
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "authority_verification_status": "verified",
+  "source": {
+    "authority_name": "QCAA",
+    "authority_type": "statutory curriculum authority",
+    "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/what-we-do",
+    "publication_owner": "Queensland Curriculum and Assessment Authority",
+    "authority_verification_status": "verified",
+    "jurisdiction": "Queensland",
+    "school_phase": "Years 11-12",
+    "learning_area_or_subject": "Agricultural Science",
+    "document_title": "Agricultural Science 2025 v1.3 General senior syllabus",
+    "version_or_effective_year": "2025 v1.3",
+    "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/agricultural-science",
+    "locator": "Rendered representation of the official QCAA Agricultural Science subject page; Syllabus section identifies Agricultural Science 2025 v1.3 (PDF, 942.6 KB) for implementation with students completing the course in 2026 or beyond. Curriculum extraction is located in the linked official 60-page syllabus PDF by printed page: cover p.1; course rationale pp.2-3; syllabus objectives p.4; designing a course of study p.6; reporting p.18; units pp.20-44 (Unit 1 Agricultural systems p.20, Unit 2 Resources p.26, Unit 3 Agricultural production p.32, Unit 4 Agricultural management p.41); assessment pp.45-57 (IA1 Data test p.45, IA2 Student experiment p.48, IA3 Research investigation p.52, external assessment: examination - combination response p.56); glossary and references p.58",
+    "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "retrieval_date": "2026-08-31",
+    "content_hash": "sha256:3c79db5840a76cb849d4cbc9369711af9b8d091ecfef75a274bc7cdf6ead83aa"
+  },
+  "version_or_effective_year": "Agricultural Science 2025 v1.3; implementation for students who will complete the course in 2026 or beyond",
+  "objectives": [
+    "Describe ideas and findings.",
+    "Apply understanding.",
+    "Analyse data.",
+    "Interpret evidence.",
+    "Evaluate processes, claims and conclusions about agricultural enterprises, and animal and plant production.",
+    "Investigate phenomena associated with agricultural enterprises, and animal and plant production."
+  ],
+  "unit_structure": [
+    {
+      "unit": "Unit 1",
+      "title": "Agricultural systems",
+      "topics": [
+        { "name": "Agricultural enterprises A", "hours": 4 },
+        { "name": "Animal production A", "hours": 19 },
+        { "name": "Plant production A", "hours": 22 }
+      ],
+      "locator": "syllabus PDF pp.20-25 (Topic 1 Agricultural enterprises A p.20; Topic 2 Animal production A p.21; Topic 3 Plant production A p.23)"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Resources",
+      "topics": [
+        { "name": "Management of renewable resources", "hours": 12 },
+        { "name": "Physical resource management", "hours": 18 },
+        { "name": "Agricultural management, research and innovation", "hours": 15 }
+      ],
+      "locator": "syllabus PDF pp.26-31 (Unit starts p.26; Topic 1 Management of renewable resources p.27; Topic 3 Agricultural management, research and innovation p.30)"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Agricultural production",
+      "topics": [
+        { "name": "Animal production B", "hours": 26 },
+        { "name": "Plant production B", "hours": 15 },
+        { "name": "Agricultural enterprises B", "hours": 4 }
+      ],
+      "locator": "syllabus PDF pp.32-40 (Unit starts p.32; Topic 1 Animal production B p.33; Topic 2 Plant production B p.37; Topic 3 Agricultural enterprises B p.40)"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Agricultural management",
+      "topics": [
+        { "name": "Enterprise management", "hours": 14 },
+        { "name": "Evaluation of an agricultural enterprise\u2019s sustainability", "hours": 31 }
+      ],
+      "locator": "syllabus PDF pp.41-44 (Unit starts p.41; Topic 1 Enterprise management p.42)"
+    }
+  ],
+  "assessment_model": {
+    "internal_assessments": [
+      { "id": "IA1", "technique": "Data test", "weighting": "10%", "unit": "Unit 3", "locator": "syllabus PDF p.45" },
+      { "id": "IA2", "technique": "Student experiment", "weighting": "20%", "unit": "Unit 3", "locator": "syllabus PDF p.48" },
+      { "id": "IA3", "technique": "Research investigation", "weighting": "20%", "unit": "Unit 4", "locator": "syllabus PDF p.52" }
+    ],
+    "external_assessment": {
+      "technique": "Examination - combination response",
+      "weighting": "50%",
+      "locator": "syllabus PDF p.56"
+    }
+  },
+  "official_support_and_assessment_resources": [
+    {
+      "type": "subject page",
+      "title": "Agricultural Science General senior syllabus",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/agricultural-science",
+      "locator": "HTML; Agricultural Science General senior syllabus 2025; Syllabus section lists Agricultural Science 2025 v1.3 (PDF, 942.6 KB); Resources section lists sample assessment instruments, sample marking schemes, past papers and subject reports; associated material includes calculator lists; last updated 13 April 2026"
+    },
+    {
+      "type": "syllabus",
+      "title": "Agricultural Science 2025 v1.3 General senior syllabus (PDF)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_agricultural_science_25_syll.pdf",
+      "locator": "PDF; Agricultural Science 2025 v1.3 General senior syllabus, January 2026, 60 pages; printed pagination supplies the exact locators recorded in extracted_fields_locators"
+    },
+    {
+      "type": "sample assessment instrument",
+      "title": "Agricultural Science 2025 IA1: Data test sample assessment instrument",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_ag_science_25_unit3_ia1_smple_ass_inst.pdf",
+      "locator": "PDF; Agricultural Science 2025 v1.2 IA1: sample assessment instrument; Data test (10%); Unit 3"
+    },
+    {
+      "type": "sample assessment instrument",
+      "title": "Agricultural Science 2025 IA2: Student experiment sample assessment instrument",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_ag_science_25_unit3_ia2_smple_ass_inst.pdf",
+      "locator": "PDF; Agricultural Science 2025 v1.2 IA2: sample assessment instrument; Student experiment (20%); Unit 3"
+    },
+    {
+      "type": "sample assessment instrument",
+      "title": "Agricultural Science 2025 IA3: Research investigation sample assessment instrument",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_ag_science_25_unit4_ia3_smple_ass_inst.pdf",
+      "locator": "PDF; Agricultural Science 2025 v1.2 IA3: sample assessment instrument; Research investigation; Unit 4"
+    },
+    {
+      "type": "sample marking scheme",
+      "title": "Agricultural Science 2025 IA1: Data test sample marking scheme",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_ag_science_25_ia1_smple_m_scheme.pdf",
+      "locator": "PDF; Agricultural Science 2025 v1.2 IA1: sample marking scheme; Data test (10%)"
+    },
+    {
+      "type": "subject report",
+      "title": "Agricultural Science 2025 subject report",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_ag_science_25_subj_rpt.pdf",
+      "locator": "PDF; Agricultural Science subject report: 2025 cohort, January 2026; assessment design and subject data"
+    }
+  ],
+  "extracted_fields_locators": {
+    "objectives": "syllabus PDF p.4",
+    "course_structure": "syllabus PDF p.6",
+    "unit_structure": "syllabus PDF pp.20, 26, 32, 41",
+    "assessment_model": "syllabus PDF pp.45, 48, 52, 56",
+    "subject_matter_topics": "syllabus PDF pp.20-44"
+  },
+  "skills_minimum_data": {
+    "australian-lesson-plan-creation": ["subject", "subject_family", "course_type", "version_or_effective_year", "objectives", "unit_structure", "assessment_model"],
+    "australian-lesson-differentiation": ["subject", "unit_structure", "subject_matter_topics"],
+    "australian-check-for-understanding": ["subject", "syllabus_objectives", "subject_matter_topics"],
+    "australian-lesson-preparation": ["subject", "subject_family", "course_type", "unit_structure"]
+  },
+  "current_syllabus_status": "Agricultural Science 2025 v1.3 (January 2026) is the current syllabus; the official subject page lists it under 'Agricultural Science General senior syllabus 2025' for implementation with students who will complete the course in 2026 or beyond. No superseded syllabus was registered; the past papers and 2019-era sample instruments listed on the page are historical assessment-support material and are not part of the current syllabus package."
+}
