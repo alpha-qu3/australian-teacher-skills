@@ -25,3 +25,4 @@
 ## Status
 - Source register: built, schema-validated.
 - Matrix scaffold: 245 rows; a subset auto-classified `contextual` via the default rules; remainder `pending`.
+- Pending rows intentionally have empty `source_ids` until a human mapping review assigns actual `SRC-####` references from the source register.
