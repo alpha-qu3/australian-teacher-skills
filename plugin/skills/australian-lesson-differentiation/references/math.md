@@ -1,6 +1,6 @@
 # Math — differentiation pedagogy
 
-Loaded by `k12-lesson-differentiation` when the subject is **math**.
+Loaded by `australian-lesson-differentiation` when the subject is **math**.
 
 ## Identify the source lesson and curriculum
 
@@ -27,8 +27,8 @@ Ask before proceeding:
 
 ## Standards grounding
 
-Follow **Step 2 — Ground in standards** in SKILL.md: if the Learning Commons Knowledge Graph
-is connected, use the Math section of `references/learning-commons-kg.md`; if not,
+Follow **Step 2 — Ground in standards** in SKILL.md: if the curriculum lookup adapter
+is connected, use the Mathematics section of `references/curriculum-lookup.md`; if not,
 proceed from best knowledge and add the disclaimer footer to the teacher plan.
 
 ## The differentiation rules
@@ -59,21 +59,17 @@ The standard's hardest case is exactly what below-level students most need to en
 #### Standards framework detection
 
 Before identifying the prerequisite, determine which framework the teacher's standard belongs to. Run the following fallback chain and stop at the first step that yields a result:
+1. Adapter lookup — call find_standards_progression_from_standard with the teacher's standard code. If the adapter returns a predecessor standard for the teacher's framework, use it verbatim. This is the preferred path regardless of whether the framework is ACARA v9, TEKS, or another state system.
 
-1. KG lookup — call find_standards_progression_from_standard with the teacher's standard code. If the KG returns a predecessor standard for the teacher's framework, use it verbatim. This is the preferred path regardless of whether the framework is CCSS, TEKS, or another state system.
+2. **Partial match** — the closest ACARA v9 prerequisite standard(s) plus their learning components (the standard broken into smaller sub-skills). The teacher's framework has no exact equivalent, so present the standard as an ACARA proxy, and use the learning components to pick the specific prior sub-skill the Below-tier scaffold builds from.
 
-2. **Partial match** — the closest Common Core prerequisite standard(s) plus their **learning components** (the standard broken into smaller sub-skills). The teacher's framework has no exact equivalent, so present the standard as a CCSS proxy, and use the learning components to pick the specific prior sub-skill the Below-tier scaffold builds from.
-**Output rule for non-CCSS frameworks:** When the CCSS proxy path is taken, do not put CCSS
-codes in the main teacher plan body. Use plain-language descriptions instead:
-- In Differentiation Overview: "Below-tier scaffolds build from prior understanding of
-  [concept description], the prerequisite for [grade-level concept]."
-- In Grounded in prerequisite: "Prerequisite concept: [plain description] — aligns to
-  [CCSS proxy code] as reference, used because TEKS progressions are not yet in the KG."
-- Move the CCSS code to a single footnote at the bottom of the teacher plan: "* Prerequisite
-  grounding uses CCSS [code] as the closest aligned standard for TEKS [teacher's code]."
-A Texas teacher's plan should not contain CCSS codes in prominent positions.
+**Output rule for non-ACARA frameworks:** When the ACARA proxy path is taken, do not put ACARA codes in the main teacher plan body. Use plain-language descriptions instead:
+- In Differentiation Overview: "Below-tier scaffolds build from prior understanding of [concept description], the prerequisite for [year-level concept]."
+- In Grounded in prerequisite: "Prerequisite concept: [plain description] — aligns to [ACARA proxy code] as reference, used because TEKS progressions are not yet in the adapter."
+- Move the ACARA code to a single footnote at the bottom of the teacher plan: "* Prerequisite grounding uses ACARA [code] as the closest aligned standard for TEKS [teacher's code]."
+A Queensland teacher's plan should not contain ACARA codes in prominent positions.
 
-3. **Concept-level fallback** — if no CCSS analog exists, describe the prerequisite as a concept in plain language: *"Prerequisite concept: [description] — specific standard not available for this state framework."*
+3. **Concept-level fallback** — if no ACARA analog exists, describe the prerequisite as a concept in plain language: *"Prerequisite concept: [description] — specific standard not available for this state framework."*
 
 The teacher plan's **Grounded in prerequisite** line must reflect which path was taken. Never leave this line blank or generic — a concept-level description is always achievable even when a standard code is not.
 
@@ -137,7 +133,7 @@ Pick a primary scaffold first. Only add a second if it contributes a genuinely d
 | **Formative check** | Tiered exit ticket or mid-lesson prompt. Not "monitor students." | Teacher plan + per-level worksheet |
 | **Anchor activity** | Standard-aligned task for early finishers. Not busywork. Written student-facing in `shared.anchor_activity` and printed on every worksheet — an anchor activity that exists only as a plan description is a failure. | Teacher plan + all three worksheets |
 | **Flexible-grouping language** | Tier assignments tied to THIS lesson's evidence, explicitly revisable after the formative check. Not static ability tracks. | Teacher plan |
-| **Per-level misconception notes** | Error pattern + teacher prompt + small-group signal. KG-sourced when available. | Teacher plan |
+| **Per-level misconception notes** | Error pattern + teacher prompt + small-group signal. Adapter-sourced when available. | Teacher plan |
 
 **Every worksheet ends with one open-ended reflective prompt, on all three tiers** — e.g., "Explain your thinking," "What strategy did you use and why?" Not optional for any tier. Store it as `shared.reflect_prompt` and name it in each tier's **Worksheet tasks** line in the teacher plan — a printed task the plan never mentions is a failure. (Rubric R3.)
 
@@ -223,7 +219,7 @@ the bold fields).
 ## Differentiation Overview
 [1 short paragraph, ≤3 sentences: approach, prerequisite named by code + short gist,
 forward standard named by code + short gist. Never paste full standard text here — the
-target standard is already verbatim in the header. Use KG-returned state standard (preferred when state is known and KG has it), CCSS proxy with reference in footnote, or concept-level fallback.]
+target standard is already verbatim in the header. Use adapter-returned state standard (preferred when state is known and adapter has it), ACARA proxy with reference in footnote, or concept-level fallback.]
 
 ## Tier Design
 [ONE `table` block — never three labeled paragraph stacks. Columns: Below (Group A) / At (Group B) / Above (Group C).

@@ -1,6 +1,6 @@
 # ELA — differentiation pedagogy
 
-Loaded by `k12-lesson-differentiation` when the subject is **ela**.
+Loaded by `australian-lesson-differentiation` when the subject is **english**.
 
 ## Identify the source lesson and curriculum
 
@@ -25,12 +25,12 @@ Ask before proceeding:
 
 ## Standards grounding
 
-Follow **Step 2 — Ground in standards** in SKILL.md: if the Learning Commons Knowledge Graph
-is connected, use the ELA section of `references/learning-commons-kg.md`; if not,
+Follow **Step 2 — Ground in standards** in SKILL.md: if the curriculum lookup adapter
+is connected, use the English section of `references/curriculum-lookup.md`; if not,
 proceed from best knowledge and add the disclaimer footer to the teacher plan.
 
 **State-aware standard resolution:** When state is known from Step 0, use state ELA framework
-codes in all output. Pass jurisdiction in the KG call per learning-commons-kg.md.
+codes in all output. Pass jurisdiction in the adapter call per curriculum-lookup.md.
 
 
 ## The differentiation rules
@@ -55,19 +55,19 @@ The standard's most demanding element (e.g., identifying an author's argument, w
 
 ### R3 — Text access: same text, different scaffolds
 
-**All three tiers work with the same grade-level text. Text complexity is not adjusted — access to the text is.**
+**All three tiers work with the same year-level text. Text complexity is not adjusted — access to the text is.**
 
-This is the foundational ELA differentiation principle. Handing below-level students an easier text closes off grade-level engagement rather than building toward it. Instead, scaffold how students access the grade-level text.
+This is the foundational English differentiation principle. Handing below-year-level students an easier text closes off year-level engagement rather than building toward it. Instead, scaffold how students access the year-level text.
 
 The tiers map to a progression from supported access to independent analysis:
 
 | Tier | Cognitive entry point |
 |---|---|
-| Below | Supported access → scaffolded production. Student works with the grade-level text using chunked reading, pre-taught vocabulary, annotation guides, and sentence supports to reach the task. |
-| At | Standard engagement. Student reads the grade-level text and completes the task as designed. |
-| Above | Independent analysis / synthesis. Student reads the grade-level text and moves beyond retrieval to author's craft, evaluation, cross-text connection, or generative production. |
+| Below | Supported access → scaffolded production. Student works with the year-level text using chunked reading, pre-taught vocabulary, annotation guides, and sentence supports to reach the task. |
+| At | Standard engagement. Student reads the year-level text and completes the task as designed. |
+| Above | Independent analysis / synthesis. Student reads the year-level text and moves beyond retrieval to author's craft, evaluation, cross-text connection, or generative production. |
 
-When the KG names a prerequisite standard, identify what reading or writing skill students already have from that standard — and build the below-level scaffold to bridge from that prior skill to the grade-level task.
+When the adapter names a prerequisite standard, identify what reading or writing skill students already have from that standard — and build the below-level scaffold to bridge from that prior skill to the year-level task.
 
 **For writing lessons:** keep the same prompt and writing purpose across tiers. What varies is structural support (frames, organizers, models). Do not reduce the writing purpose (e.g., do not convert an argument to a summary for below-level students).
 
@@ -205,7 +205,7 @@ If only one meaningful extension fits, include only that one.
 
 **If tier scope is not specified, ask ONE combined question before generating:**
 
-> "I'll differentiate this into below / at / above grade-level tiers — are those the right three? And any specific learner needs I should know about (ELL levels, IEP goals)? If not, I'll apply UDL defaults (sentence supports and vocabulary support across all tiers)."
+> "I'll differentiate this into below / at / above year-level tiers — are those the right three? And any specific learner needs I should know about (EAL/D proficiency levels, NCCD adjustment categories)? If not, I'll apply UDL defaults (sentence supports and vocabulary support across all tiers)."
 
 If scope is already specified, apply defaults silently and proceed.
 

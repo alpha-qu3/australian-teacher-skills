@@ -1,6 +1,6 @@
-# Output contract — k12-lesson-differentiation
+# Output contract — australian-lesson-differentiation
 
-Loaded by `k12-lesson-differentiation` at Step 5, before writing `differentiation.json`.
+Loaded by `australian-lesson-differentiation` at Step 5, before writing `differentiation.json`.
 Every rule here is a hard requirement for the four documents.
 
 ## Density rules — hard requirements for every document

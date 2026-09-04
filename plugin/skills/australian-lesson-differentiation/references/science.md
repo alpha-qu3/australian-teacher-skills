@@ -1,6 +1,6 @@
 # Science — differentiation pedagogy
 
-Loaded by `k12-lesson-differentiation` when the subject is **science**.
+Loaded by `australian-lesson-differentiation` when the subject is **science**.
 
 ## Identify the source lesson
 
@@ -35,11 +35,11 @@ OpenSciEd" and the provided lesson has any curriculum branding, treat as OSE-con
 
 ## Standards grounding
 
-Follow **Step 2 — Ground in standards** in SKILL.md: if the Learning Commons Knowledge Graph
-is connected, use the Science section of `references/learning-commons-kg.md`; if not,
+Follow **Step 2 — Ground in standards** in SKILL.md: if the curriculum lookup adapter
+is connected, use the Science section of `references/curriculum-lookup.md`; if not,
 proceed from best knowledge and add the disclaimer footer to the teacher plan.
 
-**State-aware standards:** When state is known from Step 0, pass relevant jurisdiction in KG call.
+**State-aware standards:** When state is known from Step 0, pass relevant jurisdiction in adapter call.
 
 
 ## The differentiation rules
@@ -187,7 +187,7 @@ Reject if: more of the same investigation, a longer worksheet, or a notation swa
 
 **If tier scope is not specified, ask ONE combined question before generating:**
 
-> "I'll differentiate this into below / at / above grade-level tiers — are those the right three? And any specific learner needs I should know about (ELL levels, IEP goal areas)? If not, I'll apply UDL defaults (sentence supports and vocabulary support across all tiers)."
+> "I'll differentiate this into below / at / above year-level tiers — are those the right three? And any specific learner needs I should know about (EAL/D proficiency levels, NCCD adjustment categories)? If not, I'll apply UDL defaults (sentence supports and vocabulary support across all tiers)."
 
 If scope is already specified, apply defaults silently and proceed.
 
