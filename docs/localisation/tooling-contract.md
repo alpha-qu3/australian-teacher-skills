@@ -84,11 +84,19 @@ python3 plugin/tools/curriculum_lookup/lookup.py \
   --jurisdiction Australia --phase F-10 --subject Mathematics
 python3 plugin/tools/curriculum_lookup/lookup.py \
   --jurisdiction Queensland --phase "Years 11-12" --subject "Legal Studies" --code QSUB-0052
+python3 plugin/tools/curriculum_lookup/lookup.py \
+  --jurisdiction Queensland --phase "Years 11-12" --subject Business --code QSUB-0012
+python3 plugin/tools/curriculum_lookup/lookup.py \
+  --jurisdiction Queensland --phase "Years 11-12" --subject "Food & Nutrition" --code QSUB-0037
 ```
 
 Expected: valid F-10 lookup → `found` with cited ACARA source; valid QCAA lookup →
 `found` with cited QCAA syllabus; invalid/unknown subject → `not-found`; never a
 fabricated code.
+
+`Business` (QSUB-0012) and `Food & Nutrition` (QSUB-0037) are bundled manifests and resolve
+offline to their current QCAA senior syllabi, including authority records, source URLs,
+versions and assessment/support resources.
 
 ## Coverage limitation (documented)
 

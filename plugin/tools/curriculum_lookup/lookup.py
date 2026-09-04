@@ -109,8 +109,8 @@ def _find_in_australian_manifest(
 
 def _get_qcaa_subject_name(manifest_data: Dict[str, Any], filename_slug: str = "") -> str:
     """Extract subject name from QCAA manifest data, handling different field structures."""
-    # Primary field: 'subject' or 'name'
-    for field in ('subject', 'name'):
+    # Primary field: 'subject', 'subject_name' or 'name'
+    for field in ('subject', 'subject_name', 'name'):
         val = manifest_data.get(field, "")
         if val:
             return val
@@ -160,6 +160,79 @@ def _find_in_qcaa_manifests(
             return manifest_data
     
     return None
+
+
+def _qcaa_source_url(result: Dict[str, Any]) -> str:
+    """Extract a syllabus source URL from either current_syllabus or source_locators.
+
+    Handles both manifest shapes:
+    - `current_syllabus` object with a `url` field (Business shape)
+    - `source_locators` dict with a `current_syllabus_pdf` key (australian-curriculum-derived shape)
+    - `source_locators` list of {type, url, ...} entries (Food & Nutrition shape)
+    """
+    cs = result.get("current_syllabus")
+    if isinstance(cs, dict) and cs.get("url"):
+        return str(cs["url"])
+    locators = result.get("source_locators")
+    if isinstance(locators, dict):
+        url = locators.get("current_syllabus_pdf") or locators.get("syllabus_pdf") \
+            or locators.get("landing_page") or locators.get("url")
+        return str(url) if url else ""
+    if isinstance(locators, list):
+        # prefer the syllabus PDF entry, else the landing page
+        for entry in locators:
+            if isinstance(entry, dict) and entry.get("type") == "syllabus_pdf":
+                return str(entry.get("url", ""))
+        for entry in locators:
+            if isinstance(entry, dict) and entry.get("url"):
+                return str(entry.get("url", ""))
+    return ""
+
+
+def _qcaa_authority(result: Dict[str, Any]) -> Dict[str, str]:
+    """Extract the authority verification record from either `authority` or
+    `authority_verification` (both manifest shapes)."""
+    svc = result.get("authority")
+    if not isinstance(svc, dict):
+        svc = result.get("authority_verification", {})
+    if not isinstance(svc, dict):
+        svc = {}
+    return {
+        "evidence_url": svc.get("authority_evidence_url", ""),
+        "status": svc.get("authority_verification_status", ""),
+        "publication_owner": svc.get("publication_owner", ""),
+        "authority_name": svc.get("authority_name", ""),
+    }
+
+
+def _build_qcaa_response(result: Dict[str, Any]) -> Dict[str, Any]:
+    """Build a curriculum-lookup response from a QCAA subject manifest, robust to both
+    the Business and Food & Nutrition manifest shapes."""
+    authority = _qcaa_authority(result)
+    identifier = (result.get("qsub_id") or result.get("subject_id")
+                  or result.get("subject") or result.get("slug") or "")
+    family = result.get("family") or result.get("subject_family") or ""
+    current = result.get("current_syllabus")
+    if isinstance(current, dict):
+        version = current.get("version_or_effective_year", "")
+    else:
+        version = result.get("version_or_effective_year", "")
+    return {
+        "status": "found",
+        "official_identifier": identifier,
+        "statement_type": "QCAA Senior Syllabus",
+        "short_text": family,
+        "source_url": _qcaa_source_url(result),
+        "version_or_effective_year": version,
+        "authority_name": authority["authority_name"],
+        "authority_verification": {
+            "evidence_url": authority["evidence_url"],
+            "status": authority["status"],
+            "publication_owner": authority["publication_owner"],
+        },
+        "mapping_confidence": 0.90,
+        "raw_entry": result,
+    }
 
 
 def lookup(
@@ -222,44 +295,14 @@ def lookup(
             if school_phase_norm in ["year", "years", "11-12"]:
                 result = _find_in_qcaa_manifests(learning_area, code_query)
                 if result:
-                    return {
-                        "status": "found",
-                        "official_identifier": result.get("qsub_id", result.get("subject", "")),
-                        "statement_type": "QCAA Senior Syllabus",
-                        "short_text": result.get("family", ""),
-                        "source_url": result.get("source_locators", {}).get("current_syllabus_pdf", ""),
-                        "version_or_effective_year": result.get("version_or_effective_year", ""),
-                        "authority_name": result.get("authority", {}).get("authority_name", ""),
-                        "authority_verification": {
-                            "evidence_url": result.get("authority", {}).get("authority_evidence_url", ""),
-                            "status": result.get("authority", {}).get("authority_verification_status", ""),
-                            "publication_owner": result.get("authority", {}).get("publication_owner", "")
-                        },
-                        "mapping_confidence": 0.90,
-                        "raw_entry": result
-                    }
+                    return _build_qcaa_response(result)
     
     # Handle Queensland curriculum (Years 11-12)
     elif jurisdiction_norm == "queensland":
         result = _find_in_qcaa_manifests(learning_area, code_query)
-        
+
         if result:
-            return {
-                "status": "found",
-                "official_identifier": result.get("qsub_id", result.get("subject", "")),
-                "statement_type": "QCAA Senior Syllabus",
-                "short_text": result.get("family", ""),
-                "source_url": result.get("source_locators", {}).get("current_syllabus_pdf", ""),
-                "version_or_effective_year": result.get("version_or_effective_year", ""),
-                "authority_name": result.get("authority", {}).get("authority_name", ""),
-                "authority_verification": {
-                    "evidence_url": result.get("authority", {}).get("authority_evidence_url", ""),
-                    "status": result.get("authority", {}).get("authority_verification_status", ""),
-                    "publication_owner": result.get("authority", {}).get("publication_owner", "")
-                },
-                "mapping_confidence": 0.90,
-                "raw_entry": result
-            }
+            return _build_qcaa_response(result)
         elif school_phase_norm in ["year", "years", "11-12"]:
             # If we looked specifically for Years 11-12 but didn't find anything,
             # search the Australian manifest as a fallback
@@ -309,6 +352,24 @@ def run_self_test() -> bool:
             "year": "",
             "subject": "Legal Studies",
             "code": "QSUB-0052",
+            "expected_status": "found"
+        },
+        {
+            "name": "Years 11-12 QCAA Business",
+            "jurisdiction": "Queensland",
+            "phase": "Years 11-12",
+            "year": "",
+            "subject": "Business",
+            "code": "QSUB-0012",
+            "expected_status": "found"
+        },
+        {
+            "name": "Years 11-12 QCAA Food & Nutrition",
+            "jurisdiction": "Queensland",
+            "phase": "Years 11-12",
+            "year": "",
+            "subject": "Food & Nutrition",
+            "code": "",
             "expected_status": "found"
         },
         {
