@@ -1,22 +1,20 @@
 # Science — lesson pedagogy
 
-Loaded by `k12-lesson-plan-creation` when the subject is **science**.
+Loaded by `australian-lesson-plan-creation` when the subject is **science**.
 
 ## Clarify
 
 Before asking anything, assess the following from all available conversation signals:
 
-**1. State detection:** Scan the conversation for any state signal — teacher mentions a state name, uses state-specific codes (TEKS, SOL, OAS, CA-NGSS, etc.), or says "I teach in [state]." If found, store as state = [state name] and pass it as jurisdiction in the KG standard lookup. Update the default standard framework to match.
+**1. Curriculum detection.** Look for signals that the teacher is using OpenSciEd anywhere in the conversation — not just the current prompt: explicit name ("OpenSciEd", "OSE"), OSE-specific terminology (anchoring phenomenon, driving question, consensus model, "figuring out"), or context that makes OSE use probable. If signals are present, treat as **OSE-confirmed** and proceed. If absent, treat as **not OSE-confirmed**.
 
-**2. Curriculum detection.** Look for signals that the teacher is using OpenSciEd anywhere in the conversation — not just the current prompt: explicit name ("OpenSciEd", "OSE"), OSE-specific terminology (anchoring phenomenon, driving question, consensus model, "figuring out"), or context that makes OSE use probable. If signals are present, treat as **OSE-confirmed** and proceed. If absent, treat as **not OSE-confirmed**.
-
-**3. Grade band.** Determine from grade level which band applies:
+**2. Grade band.** Determine from grade level which band applies:
 - **K–2**: concrete phenomena, teacher-facilitated sensemaking, oral and drawn models
 - **3–5**: transitional — written Claim-Evidence-Reasoning (CER) begins, mechanistic models, simple data analysis
 - **6–8**: integrated across disciplines, quantitative reasoning, formal argumentation
 - **9–12**: mathematical modeling, extended investigations, societal/ethical dimensions
 
-**4. Standard and phenomenon context.** Note whether the teacher has specified a state or NGSS Performance Expectation code (e.g., `MS-LS2-3`) or a topic. Note whether they've specified an anchoring phenomenon or unit context. If not, draw from the KG calls (see learning-commons-kg.md). Flag any selections in Section 1 as suggested.
+**3. Standard and phenomenon context.** Note whether the teacher has specified a state or NGSS Performance Expectation code (e.g., `MS-LS2-3`) or a topic. Note whether they've specified an anchoring phenomenon or unit context. If not, draw from the KG calls (see learning-commons-kg.md). Flag any selections in Section 1 as suggested.
 
 When key information is missing, ask. Priority: (1) grade level if missing, (2) topic or standard if missing, (3) unit position if helpful context (4) state if not inferable. Infer everything else. Defaults applied silently: NGSS, 45–60 min, universal access design.
 
@@ -34,8 +32,6 @@ proceed from best knowledge and add the disclaimer footer.
 include at least one visual scaffold with a teacher-facing rationale justifying the choice. 
 
 Also be sure that overall timing and timing for each section is realistic - do not overload the lesson.
-
-### Curriculum branching — apply before drafting
 
 **If OSE-confirmed (OpenSciEd):**
 The teacher already has the OpenSciEd curriculum. Write a **distinct lesson** that complements rather than duplicates what they already have — do not replicate or lightly adapt any OSE lesson. Use the KG OSE materials (learning-commons-kg.md, Science call 2) to understand what phenomenon, practices, and routines OSE uses for this standard, then design an original investigation and discussion sequence that covers the same three-dimensional learning differently.
@@ -175,5 +171,4 @@ When you reach Step 5 (Output) in SKILL.md, map science content to the material-
   "Investigation") — you compose them directly in the document's sections.
 
 ---
-
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
+Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0

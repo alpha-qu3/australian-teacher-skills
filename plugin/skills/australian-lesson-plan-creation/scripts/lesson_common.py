@@ -1,5 +1,5 @@
 # Copyright 2026 Anthropic, PBC
-# Copyright 2026 Learning Commons
+# Copyright 2026 Anthropic, PBC
 # SPDX-License-Identifier: Apache-2.0
 
 """Shared-content helpers used by all artifact renderers.

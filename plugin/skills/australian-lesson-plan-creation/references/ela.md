@@ -8,7 +8,7 @@ Before asking anything, assess the following from all available conversation sig
 
 **1. Year band.** Determine from year level which band applies:
 - **Prep-Year 2**: foundational literacy — phonics/decoding OR read-aloud/comprehension (infer from
-  content description; RF standards = phonics lesson; RL/RI standards = comprehension lesson)
+  content description; phonics content descriptions for decoding, comprehension content descriptions for read-aloud)
 - **Years 3-6**: transitional comprehension
 - **Years 7-10**: literary and rhetorical analysis
 - **Years 11-12**: sophisticated analysis and argument
@@ -263,4 +263,4 @@ sections:
 
 ---
 
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
+Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0

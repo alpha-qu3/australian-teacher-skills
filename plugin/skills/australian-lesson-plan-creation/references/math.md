@@ -200,4 +200,4 @@ Worked example: `references/example_lesson.json`.
 
 ---
 
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
+Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0

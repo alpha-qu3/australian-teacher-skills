@@ -1,34 +1,28 @@
-# Social Studies — lesson pedagogy
+# HASS — lesson pedagogy
 
-Loaded by `k12-lesson-plan-creation` when the subject is **social studies / history**. This subject
-follows the C3 inquiry arc, generates a **single lesson** positioned within a unit arc, and
+Loaded by `australian-lesson-plan-creation` when the subject is **HASS**. This subject
+follows an inquiry arc, generates a **single lesson** positioned within a unit arc, and
 **points to** primary sources rather than reproducing them.
 
-Lessons follow the C3 Framework inquiry arc:
+Lessons follow an inquiry arc:
 - Developing compelling and supporting questions — sparks curiosity and drives a unit
 - Applying disciplinary concepts and tools — from civics, economics, geography, and history
 - Evaluating sources and using evidence — disciplinary literacy and critical thinking
 - Communicating conclusions and taking informed action — civic application
 
-**C3 Framework note.** The C3 Framework is an *inquiry design* framework, not a standards document. Use C3 for instructional design (the inquiry arc, sourcing, argumentation, civic action), but the lesson's content scope and the verbatim standard must come from the **state** standard — never substitute a C3 dimension or indicator for the standard, and never fall back to C3 when a state standard is unavailable.
+**Inquiry Framework note.** The C3 Framework is an *inquiry design* framework, not a standards document. Use inquiry frameworks for instructional design (the inquiry arc, sourcing, argumentation, civic action), but the lesson's content scope and the verbatim standard must come from the **Australian Curriculum** — never substitute an inquiry dimension or indicator for the standard, and never fall back to an inquiry framework when a curriculum standard is unavailable.
 
 ## Gather inputs
 
-If the user has not already provided the following, ask for them before generating:
-
-- **Grade band**: K–2, 3–5, 6–8, or 9–12
-- **Topic or era**: e.g., "Reconstruction," "the civil rights movement," "ancient Rome," "World War I"
-- **Compelling question** (optional — you will draft one if not provided): a contestable, civically resonant question that could anchor a multi-day unit
-- **Specific standard or focus skill** (optional): e.g., "causation," "sourcing," "continuity and change over time"
-- **State** (required): Social studies standards are state-specific. If the teacher does not name a state and it is not inferrable, ask.
+Determine the year level/course (Prep-Year 12) and HASS content (e.g., "Civics & Citizenship", "Economics & Business", "Geography", "History") — or ask when those are absent.
 
 Do not ask about Taking Informed Action, multi-discipline integration, or curriculum context — those are out of scope for this skill.
 
 
 ## Standards grounding
 
-Follow **Step 2 — Ground in standards** in SKILL.md: if the Learning Commons Knowledge Graph
-is connected, use the Social Studies section of `references/learning-commons-kg.md`; if not,
+Follow **Step 2 — Ground in Australian standards** in SKILL.md: if the Knowledge Graph
+is connected, use the HASS section of `references/learning-commons-kg.md`; if not,
 proceed from best knowledge and add the disclaimer footer.
 
 ## Draft a compelling question (if not provided)
@@ -39,11 +33,11 @@ The compelling question must be:
 - Answerable through historical evidence
 - Appropriate in complexity for the grade band
 
-Examples by grade band:
-- K–2: "Why do people move to new places?" / "How do communities change over time?"
-- 3–5: "Was Westward Expansion good for America?" / "What made the American Revolution possible?"
-- 6–8: "Was World War I inevitable?" / "How did ordinary people shape the civil rights movement?"
-- 9–12: "When is civil disobedience justified?" / "Did Reconstruction succeed or fail — and for whom?"
+Examples by year band:
+- Prep-Year 2: "Why do people move to new places?" / "How do communities change over time?"
+- Years 3-5: "Why did people come to Australia?" / "How did the Gold Rush change life in the colonies?"
+- Years 6-8: "How did Federation shape Australia?" / "Why did the Stolen Generations happen — and what was its impact?"
+- Years 9-12: "When is civil disobedience justified?" / "How has Australia's relationship with Asia shaped its identity?"
 
 
 ## Build the lesson plan
@@ -67,11 +61,11 @@ Be sure that overall timing and timing for each section is realistic - do not ov
 
 ### Section structure — teaching order
 
-1. **At a glance** — grade band; time; standard verbatim in a `special` callout (the ONE
-   verbatim quote — everywhere else standards go by code + short gist); a one-line lesson arc
+1. **At a glance** — year level; time; standard verbatim in a `special` callout (the ONE
+   verbatim quote — everywhere else standards go by code + a short gist); a one-line lesson arc
    naming the phases with their minutes (e.g. "Hook 5 -> source work 20 -> discussion 15 ->
-   exit 10") so the shape of the lesson is visible before any detail; the lesson's C3 inquiry
-   focus in plain words (e.g. "C3: evaluating sources and using evidence"); materials —
+   exit 10") so the shape of the lesson is visible before any detail; the lesson's inquiry
+   focus in plain words (e.g. "evaluating sources and using evidence"); materials —
    name each item plainly.
 2. **Compelling & supporting questions** — the unit-level question, and the narrower question
    this single lesson investigates (one of the 3–5 that would make up the full unit).
@@ -138,12 +132,12 @@ Apply these adjustments throughout the lesson:
 - Exit ticket: a claim with cited evidence and reasoning, acknowledging complexity — sized to the minutes remaining
 - Vocabulary: discipline-specific and college-level terms assumed or quickly reviewed
 
-## Writing lesson.json — social studies mapping
+## Writing lesson.json — HASS mapping
 
-When you reach Step 5 (Output) in SKILL.md, register social-studies content in `shared` and
+When you reach Step 5 (Output) in SKILL.md, register HASS content in `shared` and
 compose `documents[]` like this:
 
-- `shared.subject`: `"Social Studies"`.
+- `shared.subject`: `"HASS"`.
 - `shared.supporting_question`: the supporting question (one sentence, student-facing).
 - Each source as its own key — `shared.source_a`, `shared.source_b`: a `source_card` block
   (title, author, date, origin, **excerpt** — reproduce a public-domain excerpt sized to the analysis when
@@ -160,12 +154,12 @@ compose `documents[]` like this:
   so it never renders on the student page — one sentence; the citation already says where
   the text lives.
 - Each guided analysis question as `shared.q1`..`q3` (2–3 questions): `{student: <question>}`. Every question names its target — "Source A", "Source B", or "both sources" — a student with two sources in hand can't act on "this source".
-- `shared.exit_ticket`: `{student: <exit-ticket prompt>, teacher?: <collection note>}`.
-  The three sort entries (standard labels, explicit criteria) are a `cards` block you place
-  in the lesson plan after pulling the exit ticket (see `example_lesson.json`).
+- `shared.exit_ticket`: `{student: <exit-ticket prompt>, teacher?: <collection note>}`. The sort
+  criteria are a `cards` block you place in the lesson plan after pulling the exit
+  ticket (see `example_lesson.json`).
 - `shared.vocabulary`, `shared.misconceptions`, `shared.look_fors` as in the `references/output.md` schema.
 
-**Documents to emit.** Social-studies inquiry lessons always have written analysis
+**Documents to emit.** HASS inquiry lessons always have written analysis
 questions, so **always include `id: "student_materials"`** alongside `lesson_plan` and
 `observation_template`. When sources are registered, also include `id: "source_packet"`
 (one `from_shared` per source, plus a one-line "Read these with the worksheet" note). The
@@ -178,9 +172,9 @@ sections:
   "Supporting question"    callout(student-task) from_shared:supporting_question
   "Sources"                from_shared:source_a ; from_shared:source_b
   "Analyze the sources"    for each question k:
-                             group[ {type: from_shared, key: qk, label: "k"},
-                                    answer_box ]
-                           page_break
+                              group[ {type: from_shared, key: qk, label: "k"},
+                                     answer_box ]
+                            page_break
   "Make your claim"        group[ from_shared:exit_ticket, answer_box ~180pt ]
 ```
 
@@ -194,5 +188,4 @@ Alongside the documents, briefly note which source collection(s) likely have the
 sources, and any coherence flag about assumed prior knowledge.
 
 ---
-
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
+Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0

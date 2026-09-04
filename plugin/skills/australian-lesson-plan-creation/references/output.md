@@ -1,6 +1,6 @@
-# Output contract — k12-lesson-plan-creation
+# Output contract — australian-lesson-plan-creation
 
-Loaded by `k12-lesson-plan-creation` at Step 5, before writing `lesson.json`. Every rule here
+Loaded by `australian-lesson-plan-creation` at Step 5, before writing `lesson.json`. Every rule here
 is a hard requirement for the documents.
 
 ## Density rules — hard requirements for every document
@@ -223,4 +223,4 @@ the file in Materials like any other page.
 
 ---
 
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
+Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0

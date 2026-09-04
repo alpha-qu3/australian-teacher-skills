@@ -15,7 +15,7 @@ description: >
   (use australian-lesson-differentiation) or passage rewrites.
   Requires jurisdiction (Australia or Queensland) and year level/course, learning area/subject
   when alignment is requested. Asks a clarifying question when those are absent.
-license: "Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0. Complete terms in LICENSE and NOTICE."
+license: "Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0"
 discovery:
   intents:
     - "lesson plan"
@@ -44,7 +44,6 @@ discovery:
     - "writing"
     - "science"
     - "hass"
-    - "social studies"
     - "history"
     - "geography"
     - "civics"
@@ -401,4 +400,4 @@ shared:
   curriculum_mapping_strength: "authority-verified"
 ```
 
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
+Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0

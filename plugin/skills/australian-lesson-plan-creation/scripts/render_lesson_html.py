@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright 2026 Anthropic, PBC
-# Copyright 2026 Learning Commons
+# Copyright 2026 Anthropic, PBC
 # SPDX-License-Identifier: Apache-2.0
 
 """Render lesson JSON -> a styled, self-contained HTML preview (the teacher-facing view).
