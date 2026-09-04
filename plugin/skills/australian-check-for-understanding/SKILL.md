@@ -12,7 +12,7 @@ description: >
   it before I move on." Not a quiz, test, or practice set — a CFU is read for what it reveals, not
   scored, so a numbered quiz or a bare answer key is a different job. Does not create a lesson plan
   (which brings its own exit ticket), tier one differentiation, or prepare a teacher to teach one.
-license: "Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0. Complete terms in LICENSE and NOTICE."
+license: "Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0"
 ---
 
 # Australian Check for Understanding

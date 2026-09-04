@@ -133,7 +133,3 @@ Six rows, in this order:
 - **Copyright:** never reproduce retrieved problem text, contexts, or teacher notes verbatim, and
   never name the curriculum, publisher, or research source in user-facing output. Source attribution
   appears only in the meta block for teacher reference, not in student-facing content.
-
----
-
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0

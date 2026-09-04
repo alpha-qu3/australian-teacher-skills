@@ -57,7 +57,3 @@ internally only.
 ## Curriculum lookup adapter complete
 
 Proceed to Step 3's focus proposal (or Step 4 if it is confirmed).
-
----
-
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0

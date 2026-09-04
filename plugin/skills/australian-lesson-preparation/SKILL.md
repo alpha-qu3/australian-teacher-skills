@@ -10,7 +10,7 @@ description: >
   it can follow. Not for building or adapting a lesson, grading, rubrics, assessment feedback, or
   generating quizzes or student-facing material, and not for single-fact lookups a sentence would
   answer ("what standard is this?", "how long is this lesson?").
-license: "Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0. Complete terms in LICENSE and NOTICE."
+license: "Copyright 2026 Anthropic, PBC · SPDX-License-Identifier: Apache-2.0"
 ---
 
 # Australian Lesson Preparation

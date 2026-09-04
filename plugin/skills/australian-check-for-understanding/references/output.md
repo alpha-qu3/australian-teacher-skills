@@ -271,7 +271,3 @@ Same shell, with `<title>CFU: [Topic] — Teacher Guide</title>` and the base + 
 </body>
 </html>
 ```
-
----
-
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0

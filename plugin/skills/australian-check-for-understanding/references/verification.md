@@ -91,7 +91,3 @@ Fix what the gates found, rewrite both files, and re-run them on anything you ch
 a repaired stem can break a distractor that was fine before. If an item still fails,
 **replace it** rather than patch it again. Both files are rewritten in place in `$OUTPUT_DIR`,
 so the fixed version is the first the teacher sees.
-
----
-
-Copyright 2026 Anthropic, PBC · Copyright 2026 Learning Commons · SPDX-License-Identifier: Apache-2.0
