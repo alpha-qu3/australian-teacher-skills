@@ -1,0 +1,230 @@
+mapping_id,original_id,eval_dir,rubric_file,criterion_name,source_authority,mapping_action,mapping_status,australian_notes,authority_required
+LPC-001,P1,australian-lesson-plan-creation,rubrics/shared.csv,Standard named verbatim,US CCSS,retain,approved,Retain with Australian Curriculum codes (ACxxxxxx),yes
+LPC-002,P2,australian-lesson-plan-creation,rubrics/shared.csv,Prerequisite / prior standard named,US CCSS,retain,approved,Use ACARA progression codes,yes
+LPC-003,P3,australian-lesson-plan-creation,rubrics/shared.csv,Learning goal separates Big Idea from SWBAT,US CCSS,retain,approved,Adapt to Australian pedagogical terminology,no
+LPC-004,P4a,australian-lesson-plan-creation,rubrics/shared.csv,Anticipated challenges — minimum count,US CCSS,retain,approved,Retain,no
+LPC-005,P4b,australian-lesson-plan-creation,rubrics/shared.csv,Anticipated challenges — each entry is complete,US CCSS,retain,approved,Retain,no
+LPC-006,P5,australian-lesson-plan-creation,rubrics/shared.csv,Lesson phases present and sequenced correctly,US CCSS,retain,approved,Adapt to Australian instructional models,no
+LPC-007,P6a,australian-lesson-plan-creation,rubrics/shared.csv,Look-fors — minimum count,US CCSS,retain,approved,Retain,no
+LPC-008,P6b,australian-lesson-plan-creation,rubrics/shared.csv,Look-fors — each entry describes observable student behavior,US CCSS,retain,approved,Retain,no
+LPC-009,P7,australian-lesson-plan-creation,rubrics/shared.csv,Visual scaffolds with rationale,US CCSS,retain,approved,Retain,no
+LPC-010,P8,australian-lesson-plan-creation,rubrics/shared.csv,Student engagement hook,US CCSS,retain,approved,Use Australian contexts,no
+LPC-011,P9,australian-lesson-plan-creation,rubrics/shared.csv,Timing is realistic,US CCSS,retain,approved,Retain,no
+LPC-012,R1,australian-lesson-plan-creation,rubrics/shared.csv,Grade-level demand is maintained,US CCSS,retain,approved,Use Australian achievement standards,yes
+LPC-013,R2,australian-lesson-plan-creation,rubrics/shared.csv,At least one task demands student reasoning,US CCSS,retain,approved,Retain,no
+LPC-014,R3,australian-lesson-plan-creation,rubrics/shared.csv,Exit ticket targets the hardest case,US CCSS,retain,approved,Retain,no
+LPC-015,R4,australian-lesson-plan-creation,rubrics/shared.csv,Student agency prompt on worksheet,US CCSS,retain,approved,Retain,no
+LPC-016,O2,australian-lesson-plan-creation,rubrics/shared.csv,Student materials contain no teacher-only content,US CCSS,retain,approved,Retain,no
+LPC-017,O3,australian-lesson-plan-creation,rubrics/shared.csv,Observation template rows are usable in the field,US CCSS,retain,approved,Retain,no
+LPC-018,O3b,australian-lesson-plan-creation,rubrics/shared.csv,Observation template exit ticket section is present and specific,US CCSS,retain,approved,Retain,no
+LPC-019,O4,australian-lesson-plan-creation,rubrics/shared.csv,Lesson plan is concise and scannable,US CCSS,retain,approved,Retain,no
+LPC-020,O5,australian-lesson-plan-creation,rubrics/shared.csv,Universal Design access features,US CCSS,retain,approved,Retain,no
+LPC-021,O6,australian-lesson-plan-creation,rubrics/shared.csv,Teacher and student materials describe the same tasks,US CCSS,retain,approved,Retain,no
+LPC-022,O7,australian-lesson-plan-creation,rubrics/shared.csv,Teacher adaptation rationale notes,US CCSS,retain,approved,Retain,no
+LPC-023,O8,australian-lesson-plan-creation,rubrics/shared.csv,Outputs are specific not generic,US CCSS,retain,approved,Retain,no
+LPC-024,O9,australian-lesson-plan-creation,rubrics/shared.csv,Narrative coherence across artifacts,US CCSS,retain,approved,Retain,no
+LPC-025,O10,australian-lesson-plan-creation,rubrics/shared.csv,No contradictions across artifacts,US CCSS,retain,approved,Retain,no
+LPC-026,O11,australian-lesson-plan-creation,rubrics/shared.csv,Lesson plan is internally consistent,US CCSS,retain,approved,Retain,no
+LPC-027,O12,australian-lesson-plan-creation,rubrics/shared.csv,Closing phase introduces nothing new,US CCSS,retain,approved,Retain,no
+LPC-028,M3,australian-lesson-plan-creation,rubrics/shared.csv,Follow-up options offered,US CCSS,retain,approved,Retain,no
+LPC-029,M5,australian-lesson-plan-creation,rubrics/shared.csv,No curriculum-specific terminology for non-curriculum teachers,US CCSS,retain,approved,Apply for ACARA context,no
+LPC-030,O13,australian-lesson-plan-creation,rubrics/shared.csv,Information density,US CCSS,retain,approved,Retain,no
+LPC-031,O14,australian-lesson-plan-creation,rubrics/shared.csv,Writing space matches demand,US CCSS,retain,approved,Retain,no
+LPC-032,P10,australian-lesson-plan-creation,rubrics/shared.csv,Standards economy,US CCSS,retain,approved,Use ACARA codes,yes
+LPC-033,O15,australian-lesson-plan-creation,rubrics/shared.csv,Document set fits the lesson,US CCSS,retain,approved,Retain,no
+LPC-034,P-M1,australian-lesson-plan-creation,rubrics/math.csv,Instructional model matches curriculum signal,US CCSS,localise,pending-reviewer,Adapt for AC/QCAA context,yes
+LPC-035,P-M2,australian-lesson-plan-creation,rubrics/math.csv,Misconceptions are equation-level not generic,US CCSS,retain,approved,Retain,no
+LPC-036,P-M3,australian-lesson-plan-creation,rubrics/math.csv,Discuss phase with student-to-student talk moves,US CCSS,retain,approved,Retain,no
+LPC-037,P-M4,australian-lesson-plan-creation,rubrics/math.csv,Problem set covers the standard's structural variety,US CCSS,retain,approved,Retain,no
+LPC-038,R-M1,australian-lesson-plan-creation,rubrics/math.csv,Standard's full numerical scope is used,US CCSS,retain,approved,Retain,no
+LPC-039,O-M1,australian-lesson-plan-creation,rubrics/math.csv,Work surface matches the task,US CCSS,retain,approved,Retain,no
+LPC-040,P-E1,australian-lesson-plan-creation,rubrics/ela.csv,Anchor text is grade-level complex,US CCSS,localise,pending-reviewer,Replace Lexile with Australian text complexity measures,yes
+LPC-041,P-E2,australian-lesson-plan-creation,rubrics/ela.csv,Discussion demands analysis not summary,US CCSS,retain,approved,Retain,no
+LPC-042,P-E3,australian-lesson-plan-creation,rubrics/ela.csv,Writing task requires text-dependent evidence,US CCSS,retain,approved,Retain,no
+LPC-043,P-E4,australian-lesson-plan-creation,rubrics/ela.csv,No three-cueing strategies,US CCSS,localise,pending-reviewer,Australian phonics approach,no
+LPC-044,P-E5,australian-lesson-plan-creation,rubrics/ela.csv,Decodable text used for phonics practice,US CCSS,localise,pending-reviewer,Australian phonics sequences,no
+LPC-045,P-E6,australian-lesson-plan-creation,rubrics/ela.csv,Counterclaim required in argument writing prompt,US CCSS,retain,approved,Retain for senior years,no
+LPC-046,R-E1,australian-lesson-plan-creation,rubrics/ela.csv,Student writes before speaking in every discussion,US CCSS,retain,approved,Retain,no
+LPC-047,P-S1,australian-lesson-plan-creation,rubrics/science.csv,Three-dimensional learning targets are separate and explicit,US NGSS,localise,pending-reviewer,Adapt to AC Science curriculum structure,yes
+LPC-048,P-S2,australian-lesson-plan-creation,rubrics/science.csv,Phenomenon is observable and drives the lesson,US NGSS,retain,approved,Retain,no
+LPC-049,P-S3,australian-lesson-plan-creation,rubrics/science.csv,Investigation precedes explanation,US NGSS,retain,approved,Retain,no
+LPC-050,P-S4,australian-lesson-plan-creation,rubrics/science.csv,CCC is named and used by students not just cited in the plan,US NGSS,retain,approved,Retain,no
+LPC-051,P-S5,australian-lesson-plan-creation,rubrics/science.csv,Model revision is present and mechanistic,US NGSS,retain,approved,Retain,no
+LPC-052,R-S1,australian-lesson-plan-creation,rubrics/science.csv,CER writing references investigation evidence,US NGSS,retain,approved,Retain,no
+LPC-053,R-S2,australian-lesson-plan-creation,rubrics/science.csv,Quantitative reasoning required in student analysis,US NGSS,retain,approved,Retain,no
+LPC-054,P-SS1,australian-lesson-plan-creation,rubrics/social_studies.csv,Compelling question is genuinely contestable,US C3,localise,pending-reviewer,Australian HASS inquiry approach,yes
+LPC-055,P-SS2,australian-lesson-plan-creation,rubrics/social_studies.csv,Supporting question narrows the lesson's inquiry,US C3,retain,approved,Retain,no
+LPC-056,P-SS3,australian-lesson-plan-creation,rubrics/social_studies.csv,Two primary or secondary sources used with access information,US C3,localise,pending-reviewer,Australian curriculum sources,yes
+LPC-057,P-SS4,australian-lesson-plan-creation,rubrics/social_studies.csv,Analysis questions move from sourcing to corroboration to argument,US C3,localise,pending-reviewer,Adapt to Australian HASS structure,yes
+LPC-058,P-SS5,australian-lesson-plan-creation,rubrics/social_studies.csv,Standard attributed correctly to framework,US C3,localise,pending-reviewer,ACARA framework,yes
+LPC-059,R-SS1,australian-lesson-plan-creation,rubrics/social_studies.csv,Formative task requires evidence-based argument,US C3,retain,approved,Retain,no
+LPC-060,R-SS2,australian-lesson-plan-creation,rubrics/social_studies.csv,Background knowledge is teacher-facing not a substitute for sources,US C3,retain,approved,Retain,no
+LPC-061,AUTH-ID-TYPE,australian-lesson-plan-creation,rubrics/add,Authority/identifier type specified,generic,add,pending-reviewer,Australian F-10,yes
+LPC-062,AUTH-CITE,australian-lesson-plan-creation,rubrics/add,Authority/version/source citation present,generic,add,pending-reviewer,All Australian evals,yes
+LPC-063,NO-FAB,australian-lesson-plan-creation,rubrics/add,No curriculum code fabrication,generic,add,pending-reviewer,All Australian evals,yes
+LPC-064,AMBIG,australian-lesson-plan-creation,rubrics/add,Ambiguity handling for Australian codes,generic,add,pending-reviewer,All Australian evals,no
+LPC-065,INV-CODE,australian-lesson-plan-creation,rubrics/add,Invalid/superseded code detection,generic,add,pending-reviewer,All Australian evals,yes
+LPC-066,NO-CONN,australian-lesson-plan-creation,rubrics/add,No connector fallback validation,generic,add,pending-reviewer,All Australian evals,no
+LDIFF-001,P1,australian-lesson-differentiation,rubrics/differentiation.csv,Standard scope preserved,US CCSS,retain,approved,ACARA codes,yes
+LDIFF-002,P2,australian-lesson-differentiation,rubrics/differentiation.csv,Prereq / forward grounding,US CCSS,retain,approved,ACARA codes,yes
+LDIFF-003,P3,australian-lesson-differentiation,rubrics/differentiation.csv,Scaffolds support thinking,US CCSS,retain,approved,Retain,no
+LDIFF-004,P4,australian-lesson-differentiation,rubrics/differentiation.csv,Proficiency-based differentiation,US CCSS,retain,approved,Retain,no
+LDIFF-005,P5,australian-lesson-differentiation,rubrics/differentiation.csv,Invisible-modifications rule,US CCSS,retain,approved,Retain,no
+LDIFF-006,P6,australian-lesson-differentiation,rubrics/differentiation.csv,Concrete representations at Below tier,US CCSS,retain,approved,Retain,no
+LDIFF-007,P7,australian-lesson-differentiation,rubrics/differentiation.csv,Scaffold fade pattern,US CCSS,retain,approved,Retain,no
+LDIFF-008,P8,australian-lesson-differentiation,rubrics/differentiation.csv,Flexible grouping language,US CCSS,retain,approved,Retain,no
+LDIFF-009,P9,australian-lesson-differentiation,rubrics/differentiation.csv,No curriculum bleed-through,US CCSS,retain,approved,ACARA context,no
+LDIFF-010,R1,australian-lesson-differentiation,rubrics/differentiation.csv,Cognitive demand preserved across tiers,US CCSS,retain,approved,Retain,no
+LDIFF-011,R2,australian-lesson-differentiation,rubrics/differentiation.csv,Engagement preserved at Below tier,US CCSS,retain,approved,Retain,no
+LDIFF-012,R3,australian-lesson-differentiation,rubrics/differentiation.csv,Student agency prompt on each worksheet,US CCSS,retain,approved,Retain,no
+LDIFF-013,O1,australian-lesson-differentiation,rubrics/differentiation.csv,Correct file structure complete in one output turn,US CCSS,retain,approved,Retain,no
+LDIFF-014,O2,australian-lesson-differentiation,rubrics/differentiation.csv,Formative checks included,US CCSS,retain,approved,Retain,no
+LDIFF-015,O3,australian-lesson-differentiation,rubrics/differentiation.csv,Anchor activity included,US CCSS,retain,approved,Retain,no
+LDIFF-016,O4,australian-lesson-differentiation,rubrics/differentiation.csv,Teacher rationale notes,US CCSS,retain,approved,Retain,no
+LDIFF-017,O5,australian-lesson-differentiation,rubrics/differentiation.csv,Universal design access features,US CCSS,retain,approved,Retain,no
+LDIFF-018,O6,australian-lesson-differentiation,rubrics/differentiation.csv,Teacher/student artifact alignment,US CCSS,retain,approved,Retain,no
+LDIFF-019,O7,australian-lesson-differentiation,rubrics/differentiation.csv,Closing next-steps section present,US CCSS,retain,approved,Retain,no
+LDIFF-020,M1,australian-lesson-differentiation,rubrics/differentiation.csv,Source lesson detected,US CCSS,retain,approved,Retain,no
+LDIFF-021,M2,australian-lesson-differentiation,rubrics/differentiation.csv,Learner needs question,US CCSS,retain,approved,EAL/D + NCCD context,no
+LDIFF-022,M3,australian-lesson-differentiation,rubrics/differentiation.csv,Asks scope if needed,US CCSS,retain,approved,Retain,no
+LDIFF-023,M4,australian-lesson-differentiation,rubrics/differentiation.csv,Iteration options at close,US CCSS,retain,approved,Retain,no
+LDIFF-024,O10,australian-lesson-differentiation,rubrics/differentiation.csv,Student-facing voice,US CCSS,retain,approved,Retain,no
+LDIFF-025,O8,australian-lesson-differentiation,rubrics/differentiation.csv,Information density,US CCSS,retain,approved,Retain,no
+LDIFF-026,O9,australian-lesson-differentiation,rubrics/differentiation.csv,Writing space matches demand,US CCSS,retain,approved,Retain,no
+LDIFF-027,P10,australian-lesson-differentiation,rubrics/differentiation.csv,Standards economy,US CCSS,retain,approved,ACARA codes,yes
+LDIFF-028,M-CLARIFY-STATE,australian-lesson-differentiation,rubrics/clarifying_question.csv,Asks for state when unknown (social studies),US C3,localise,pending-reviewer,Adapt for ACARA/QCAA context,yes
+LDIFF-029,EALD-DIFF,australian-lesson-differentiation,rubrics/add,EAL/D learner differentiation,generic,add,pending-reviewer,F-10 differentiation scenario,no
+LDIFF-030,NCCD-ADJ,australian-lesson-differentiation,rubrics/add,Reasonable adjustments,generic,add,pending-reviewer,F-10 differentiation scenario,no
+LPREP-001,P1,australian-lesson-preparation,rubrics/internalization.csv,Sticking points could only have come from working the lesson,US CCSS,retain,approved,Retain,no
+LPREP-002,P1b,australian-lesson-preparation,rubrics/internalization.csv,Sticking points draw on knowledge graph misconception data when available,US CCSS,retain,approved,Retain,no
+LPREP-003,P2,australian-lesson-preparation,rubrics/internalization.csv,Curriculum coherence: no restructuring proposed,US CCSS,retain,approved,ACARA context,no
+LPREP-004,P3,australian-lesson-preparation,rubrics/internalization.csv,Load-bearing vocabulary surfaced,US CCSS,retain,approved,Retain,no
+LPREP-005,R1,australian-lesson-preparation,rubrics/internalization.csv,Work uses the lesson's own intended strategy,US CCSS,retain,approved,Retain,no
+LPREP-006,R2,australian-lesson-preparation,rubrics/internalization.csv,Sticking points reflect genuine difficulty,US CCSS,retain,approved,Retain,no
+LPREP-007,R3,australian-lesson-preparation,rubrics/internalization.csv,Difficulty is attributed to the right cause,US CCSS,retain,approved,Retain,no
+LPREP-008,R4,australian-lesson-preparation,rubrics/internalization.csv,Factual errors in the teacher's framing are corrected,US CCSS,retain,approved,Retain,no
+LPREP-009,O1,australian-lesson-preparation,rubrics/internalization.csv,Note is short: much shorter than a full page,US CCSS,retain,approved,Retain,no
+LPREP-010,O2,australian-lesson-preparation,rubrics/internalization.csv,Note is organized as a walk through the lesson's own parts,US CCSS,retain,approved,Retain,no
+LPREP-011,M1,australian-lesson-preparation,rubrics/internalization.csv,Entry point handled correctly,US CCSS,retain,approved,Retain,no
+LPREP-012,M2,australian-lesson-preparation,rubrics/internalization.csv,The teacher answers before the model delivers its read,US CCSS,retain,approved,Retain,no
+LPREP-013,M3,australian-lesson-preparation,rubrics/internalization.csv,No process overhead in the conversation,US CCSS,retain,approved,Retain,no
+LPREP-014,M4,australian-lesson-preparation,rubrics/internalization.csv,Teacher can stop anytime,US CCSS,retain,approved,Retain,no
+LPREP-015,M5,australian-lesson-preparation,rubrics/internalization.csv,The teacher actually participated,US CCSS,retain,approved,Retain,no
+LPREP-016,M6,australian-lesson-preparation,rubrics/internalization.csv,The near-miss comes from the teacher not pre-supplied by the model,US CCSS,retain,approved,Retain,no
+LPREP-017,QCAA-BUS-PREP,australian-lesson-preparation,rubrics/add,QCAA Business lesson preparation,generic,add,pending-reviewer,QCAA senior syllabus context,yes
+LPREP-018,QCAA-FN-PREP,australian-lesson-preparation,rubrics/add,QCAA Food Nutrition lesson preparation,generic,add,pending-reviewer,QCAA senior syllabus context,yes
+LCFU-001,P1,australian-check-for-understanding,rubrics/math.csv,Standard correctly identified and scoped,US CCSS,localise,pending-reviewer,ACARA/QCAA codes,yes
+LCFU-002,P2,australian-check-for-understanding,rubrics/math.csv,Rigor correctly identified,US CCSS,retain,approved,Retain,no
+LCFU-003,P3,australian-check-for-understanding,rubrics/math.csv,No over-decomposition,US CCSS,retain,approved,Retain,no
+LCFU-004,P4,australian-check-for-understanding,rubrics/math.csv,Language demands don't interfere,US CCSS,retain,approved,Retain,no
+LCFU-005,P5,australian-check-for-understanding,rubrics/math.csv,Learning goal is specific,US CCSS,retain,approved,Retain,no
+LCFU-006,P6,australian-check-for-understanding,rubrics/math.csv,Grade-appropriate number values,US CCSS,retain,approved,Retain,no
+LCFU-007,P7,australian-check-for-understanding,rubrics/math.csv,Coherence map grounds prior-grade vs. on-grade routing,US CCSS,retain,approved,Retain,no
+LCFU-008,P8,australian-check-for-understanding,rubrics/math.csv,Focus constraints verifiable in item design,US CCSS,retain,approved,Retain,no
+LCFU-009,P9,australian-check-for-understanding,rubrics/math.csv,Prerequisite vs. on-grade errors distinguished,US CCSS,retain,approved,Retain,no
+LCFU-010,P10,australian-check-for-understanding,rubrics/math.csv,Prerequisite errors routed to a named prior standard,US CCSS,retain,approved,Retain,no
+LCFU-011,P11,australian-check-for-understanding,rubrics/math.csv,Next-step guidance names a specific instructional move,US CCSS,retain,approved,Retain,no
+LCFU-012,P12,australian-check-for-understanding,rubrics/math.csv,Asset-based language; no deficit framing,US CCSS,retain,approved,Retain,no
+LCFU-013,R1,australian-check-for-understanding,rubrics/math.csv,Item format appropriate for rigor type,US CCSS,retain,approved,Retain,no
+LCFU-014,R2,australian-check-for-understanding,rubrics/math.csv,Visual representation for conceptual K-8,US CCSS,retain,approved,Retain,no
+LCFU-015,R3,australian-check-for-understanding,rubrics/math.csv,Student work shown for procedural,US CCSS,retain,approved,Retain,no
+LCFU-016,R4,australian-check-for-understanding,rubrics/math.csv,Most revealing case targeted,US CCSS,retain,approved,Retain,no
+LCFU-017,R5,australian-check-for-understanding,rubrics/math.csv,Every item reveals thinking not just correctness,US CCSS,retain,approved,Retain,no
+LCFU-018,R6,australian-check-for-understanding,rubrics/math.csv,Mathematical accuracy — single correct answer,US CCSS,retain,approved,Retain,no
+LCFU-019,O1,australian-check-for-understanding,rubrics/math.csv,Standard in meta verbatim,US CCSS,localise,pending-reviewer,ACARA/QCAA codes,yes
+LCFU-020,O2,australian-check-for-understanding,rubrics/math.csv,Learning goal and rigor labeled in meta,US CCSS,retain,approved,Retain,no
+LCFU-021,O3,australian-check-for-understanding,rubrics/math.csv,Interpretation guide present for each item,US CCSS,retain,approved,Retain,no
+LCFU-022,O4,australian-check-for-understanding,rubrics/math.csv,Next steps are actionable and differentiated,US CCSS,retain,approved,Retain,no
+LCFU-023,O5,australian-check-for-understanding,rubrics/math.csv,CFU is brief,US CCSS,retain,approved,Retain,no
+LCFU-024,O6,australian-check-for-understanding,rubrics/math.csv,Student handout carries no teacher-facing content,US CCSS,retain,approved,Retain,no
+LCFU-025,O7,australian-check-for-understanding,rubrics/math.csv,Item text identical across the two files,US CCSS,retain,approved,Retain,no
+LCFU-026,O8,australian-check-for-understanding,rubrics/math.csv,Response patterns describe observable behavior,US CCSS,retain,approved,Retain,no
+LCFU-027,O9,australian-check-for-understanding,rubrics/math.csv,Interpretation guide is LLM-scorable,US CCSS,retain,approved,Retain,no
+LCFU-028,O11,australian-check-for-understanding,rubrics/math.csv,No third-party source attribution,US CCSS,retain,approved,Retain,no
+LCFU-029,M1,australian-check-for-understanding,rubrics/math.csv,Asks for grade when it isn't given,US CCSS,retain,approved,Retain,no
+LCFU-030,M2,australian-check-for-understanding,rubrics/math.csv,States the focus and stops for confirmation,US CCSS,retain,approved,Retain,no
+LCFU-031,M3,australian-check-for-understanding,rubrics/math.csv,Re-scopes when the teacher redirects,US CCSS,retain,approved,Retain,no
+LCFU-032,O12,australian-check-for-understanding,rubrics/math.csv,Figures state in text what they show,US CCSS,retain,approved,Retain,no
+LCFU-033,P13,australian-check-for-understanding,rubrics/math.csv,Student-facing language is grade-level appropriate,US CCSS,retain,approved,Retain,no
+LCFU-034,P14,australian-check-for-understanding,rubrics/math.csv,Learning goal and focus read as plain teacher language,US CCSS,retain,approved,Retain,no
+LCFU-035,O13,australian-check-for-understanding,rubrics/math.csv,Figure text does not answer the item,US CCSS,retain,approved,Retain,no
+LCFU-036,AC-F10-MATH,australian-check-for-understanding,rubrics/add,Australian F-10 Mathematics CFU,generic,add,pending-reviewer,Mathematics check for F-10,yes
+LCFU-037,QCAA-FN-CFU,australian-check-for-understanding,rubrics/add,QCAA Food Nutrition check for understanding,generic,add,pending-reviewer,QCAA senior syllabus,yes
+QCAA-SA-QSUB-0001,QSUB-0001,aboriginal-torres-strait-islander-languages,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Aboriginal & Torres Strait Islander Languages QCAA senior syllabus,yes
+QCAA-SA-QSUB-0002,QSUB-0002,aboriginal-torres-strait-islander-studies,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Aboriginal & Torres Strait Islander Studies QCAA senior syllabus,yes
+QCAA-SA-QSUB-0003,QSUB-0003,accounting,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Accounting QCAA senior syllabus,yes
+QCAA-SA-QSUB-0004,QSUB-0004,aerospace-systems,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Aerospace Systems QCAA senior syllabus,yes
+QCAA-SA-QSUB-0005,QSUB-0005,agricultural-practices,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Agricultural Practices QCAA senior syllabus,yes
+QCAA-SA-QSUB-0006,QSUB-0006,agricultural-science,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Agricultural Science QCAA senior syllabus,yes
+QCAA-SA-QSUB-0007,QSUB-0007,ancient-history,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Ancient History QCAA senior syllabus,yes
+QCAA-SA-QSUB-0008,QSUB-0008,aquatic-practices,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Aquatic Practices QCAA senior syllabus,yes
+QCAA-SA-QSUB-0009,QSUB-0009,arts-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Arts in Practice QCAA senior syllabus,yes
+QCAA-SA-QSUB-0010,QSUB-0010,biology,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Biology QCAA senior syllabus,yes
+QCAA-SA-QSUB-0011,QSUB-0011,building-construction-skills,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Building & Construction Skills QCAA senior syllabus,yes
+QCAA-SA-QSUB-0012,QSUB-0012,business,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Business QCAA senior syllabus,yes
+QCAA-SA-QSUB-0013,QSUB-0013,business-studies,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Business Studies QCAA senior syllabus,yes
+QCAA-SA-QSUB-0014,QSUB-0014,career-education,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Career Education QCAA senior syllabus,yes
+QCAA-SA-QSUB-0015,QSUB-0015,chemistry,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Chemistry QCAA senior syllabus,yes
+QCAA-SA-QSUB-0016,QSUB-0016,chinese,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Chinese QCAA senior syllabus,yes
+QCAA-SA-QSUB-0017,QSUB-0017,chinese-extension,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Chinese Extension QCAA senior syllabus,yes
+QCAA-SA-QSUB-0018,QSUB-0018,critical-thinking,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Critical Thinking QCAA senior syllabus,yes
+QCAA-SA-QSUB-0019,QSUB-0019,dance,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Dance QCAA senior syllabus,yes
+QCAA-SA-QSUB-0020,QSUB-0020,dance-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Dance in Practice QCAA senior syllabus,yes
+QCAA-SA-QSUB-0021,QSUB-0021,design,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Design QCAA senior syllabus,yes
+QCAA-SA-QSUB-0022,QSUB-0022,digital-solutions,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Digital Solutions QCAA senior syllabus,yes
+QCAA-SA-QSUB-0023,QSUB-0023,drama,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Drama QCAA senior syllabus,yes
+QCAA-SA-QSUB-0024,QSUB-0024,drama-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Drama in Practice QCAA senior syllabus,yes
+QCAA-SA-QSUB-0025,QSUB-0025,early-childhood-studies,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Early Childhood Studies QCAA senior syllabus,yes
+QCAA-SA-QSUB-0026,QSUB-0026,earth-environmental-science,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Earth & Environmental Science QCAA senior syllabus,yes
+QCAA-SA-QSUB-0027,QSUB-0027,economics,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Economics QCAA senior syllabus,yes
+QCAA-SA-QSUB-0028,QSUB-0028,engineering,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Engineering QCAA senior syllabus,yes
+QCAA-SA-QSUB-0029,QSUB-0029,engineering-skills,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Engineering Skills QCAA senior syllabus,yes
+QCAA-SA-QSUB-0030,QSUB-0030,english,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for English QCAA senior syllabus,yes
+QCAA-SA-QSUB-0031,QSUB-0031,english-literature-extension,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for English & Literature Extension QCAA senior syllabus,yes
+QCAA-SA-QSUB-0032,QSUB-0032,english-as-an-additional-language,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for English as an Additional Language QCAA senior syllabus,yes
+QCAA-SA-QSUB-0033,QSUB-0033,essential-english,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Essential English QCAA senior syllabus,yes
+QCAA-SA-QSUB-0034,QSUB-0034,essential-mathematics,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Essential Mathematics QCAA senior syllabus,yes
+QCAA-SA-QSUB-0035,QSUB-0035,fashion,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Fashion QCAA senior syllabus,yes
+QCAA-SA-QSUB-0036,QSUB-0036,film-television-new-media,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,"Source alignment for Film, Television & New Media QCAA senior syllabus",yes
+QCAA-SA-QSUB-0037,QSUB-0037,food-nutrition,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Food & Nutrition QCAA senior syllabus,yes
+QCAA-SA-QSUB-0038,QSUB-0038,french,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for French QCAA senior syllabus,yes
+QCAA-SA-QSUB-0039,QSUB-0039,french-extension,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for French Extension QCAA senior syllabus,yes
+QCAA-SA-QSUB-0040,QSUB-0040,furnishing-skills,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Furnishing Skills QCAA senior syllabus,yes
+QCAA-SA-QSUB-0041,QSUB-0041,general-mathematics,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for General Mathematics QCAA senior syllabus,yes
+QCAA-SA-QSUB-0042,QSUB-0042,geography,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Geography QCAA senior syllabus,yes
+QCAA-SA-QSUB-0043,QSUB-0043,german,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for German QCAA senior syllabus,yes
+QCAA-SA-QSUB-0044,QSUB-0044,german-extension,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for German Extension QCAA senior syllabus,yes
+QCAA-SA-QSUB-0045,QSUB-0045,health,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Health QCAA senior syllabus,yes
+QCAA-SA-QSUB-0046,QSUB-0046,hospitality-practices,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Hospitality Practices QCAA senior syllabus,yes
+QCAA-SA-QSUB-0047,QSUB-0047,industrial-graphics-skills,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Industrial Graphics Skills QCAA senior syllabus,yes
+QCAA-SA-QSUB-0048,QSUB-0048,industrial-technology-skills,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Industrial Technology Skills QCAA senior syllabus,yes
+QCAA-SA-QSUB-0049,QSUB-0049,information-communication-technology,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Information & Communication Technology QCAA senior syllabus,yes
+QCAA-SA-QSUB-0050,QSUB-0050,italian,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Italian QCAA senior syllabus,yes
+QCAA-SA-QSUB-0051,QSUB-0051,japanese,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Japanese QCAA senior syllabus,yes
+QCAA-SA-QSUB-0052,QSUB-0052,legal-studies,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Legal Studies QCAA senior syllabus,yes
+QCAA-SA-QSUB-0053,QSUB-0053,literacy,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Literacy QCAA senior syllabus,yes
+QCAA-SA-QSUB-0054,QSUB-0054,literature,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Literature QCAA senior syllabus,yes
+QCAA-SA-QSUB-0055,QSUB-0055,marine-science,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Marine Science QCAA senior syllabus,yes
+QCAA-SA-QSUB-0056,QSUB-0056,mathematical-methods,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Mathematical Methods QCAA senior syllabus,yes
+QCAA-SA-QSUB-0057,QSUB-0057,media-arts-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Media Arts in Practice QCAA senior syllabus,yes
+QCAA-SA-QSUB-0058,QSUB-0058,modern-history,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Modern History QCAA senior syllabus,yes
+QCAA-SA-QSUB-0059,QSUB-0059,music,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Music QCAA senior syllabus,yes
+QCAA-SA-QSUB-0060,QSUB-0060,music-extension-composition,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Music Extension (Composition) QCAA senior syllabus,yes
+QCAA-SA-QSUB-0061,QSUB-0061,music-extension-musicology,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Music Extension (Musicology) QCAA senior syllabus,yes
+QCAA-SA-QSUB-0062,QSUB-0062,music-extension-performance,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Music Extension (Performance) QCAA senior syllabus,yes
+QCAA-SA-QSUB-0063,QSUB-0063,music-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Music in Practice QCAA senior syllabus,yes
+QCAA-SA-QSUB-0064,QSUB-0064,numeracy,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Numeracy QCAA senior syllabus,yes
+QCAA-SA-QSUB-0065,QSUB-0065,philosophy-reason,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Philosophy & Reason QCAA senior syllabus,yes
+QCAA-SA-QSUB-0066,QSUB-0066,physical-education,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Physical Education QCAA senior syllabus,yes
+QCAA-SA-QSUB-0067,QSUB-0067,physics,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Physics QCAA senior syllabus,yes
+QCAA-SA-QSUB-0068,QSUB-0068,psychology,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Psychology QCAA senior syllabus,yes
+QCAA-SA-QSUB-0069,QSUB-0069,religion-ethics,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Religion & Ethics QCAA senior syllabus,yes
+QCAA-SA-QSUB-0070,QSUB-0070,science-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Science in Practice QCAA senior syllabus,yes
+QCAA-SA-QSUB-0071,QSUB-0071,social-community-studies,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Social & Community Studies QCAA senior syllabus,yes
+QCAA-SA-QSUB-0072,QSUB-0072,spanish,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Spanish QCAA senior syllabus,yes
+QCAA-SA-QSUB-0073,QSUB-0073,specialist-mathematics,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Specialist Mathematics QCAA senior syllabus,yes
+QCAA-SA-QSUB-0074,QSUB-0074,sport-recreation,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Sport & Recreation QCAA senior syllabus,yes
+QCAA-SA-QSUB-0075,QSUB-0075,study-of-religion,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Study of Religion QCAA senior syllabus,yes
+QCAA-SA-QSUB-0076,QSUB-0076,tourism,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Tourism QCAA senior syllabus,yes
+QCAA-SA-QSUB-0077,QSUB-0077,visual-art,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Visual Art QCAA senior syllabus,yes
+QCAA-SA-QSUB-0078,QSUB-0078,visual-arts-in-practice,source-fixture.json,source-alignment,QCAA,source-alignment,pending-reviewer,Source alignment for Visual Arts in Practice QCAA senior syllabus,yes

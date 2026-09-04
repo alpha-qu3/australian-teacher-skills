@@ -1,0 +1,50 @@
+{
+  "fixture_id": "QA-007-001",
+  "qsub_id": "QSUB-0007",
+  "subject": "Ancient History",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/ancient-history",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Humanities and Social Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Ancient History",
+      "document_title": "Ancient History General senior syllabus",
+      "version_or_effective_year": "2025 v1.4",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/ancient-history",
+      "locator": "Full source: HTML syllabus section; last updated 14 July 2026",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-08-31"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Ancient History",
+      "document_title": "Ancient History 2025 v1.4 General senior syllabus",
+      "version_or_effective_year": "2025 v1.4",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_ancient_history_25_syll.pdf",
+      "locator": "Full source: PDF pages 1-42; version history page 42",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-08-31"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/ancient-history"
+}

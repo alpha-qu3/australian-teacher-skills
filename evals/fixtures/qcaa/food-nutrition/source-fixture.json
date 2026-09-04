@@ -1,0 +1,50 @@
+{
+  "fixture_id": "QA-037-001",
+  "qsub_id": "QSUB-0037",
+  "subject": "Food & Nutrition",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/food-nutrition",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Technologies",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies \u2014 Food & Nutrition",
+      "document_title": "Food & Nutrition \u2014 subject landing page",
+      "version_or_effective_year": "2025 v1.3 (last updated 15 June 2026)",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/food-nutrition",
+      "locator": "HTML: #content; Syllabus; Resources",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-08-30"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies \u2014 Food & Nutrition",
+      "document_title": "Food & Nutrition 2025 v1.3 \u2014 General senior syllabus (PDF)",
+      "version_or_effective_year": "2025 v1.3 (January 2026 implementation)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_food_25_syll.pdf",
+      "locator": "PDF: cover; pp. 5 (course structure); pp. 7 (complementary skills, Aboriginal/Torres Strait perspectives); pp. 10 (problem-solving process); pp. 11 (reporting standards); pp. 13-14 (food system diagram, objectives); pp. 17-19 (Unit 1 objectives); pp. 22-23 (Unit 3 Topic content)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-08-30"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/food-nutrition"
+}

@@ -1,16 +1,16 @@
 {
-  "name": "k12-teacher-skills",
+  "name": "australian-teacher-skills",
   "owner": {
     "name": "Anthropic"
   },
   "metadata": {
-    "description": "Plugin marketplace for K-12 Education and Claude for Teachers."
+    "description": "Plugin marketplace for Australian Education (F–12) and Claude for Teachers."
   },
   "plugins": [
     {
-      "name": "k12-education",
-      "displayName": "K-12 Education",
-      "description": "Skills and MCPs for K-12 Education: standards-aligned lesson plan creation, lesson differentiation, lesson prep, and checks for understanding across math, ELA, science, and social studies.",
+      "name": "australian-education",
+      "displayName": "Australian Education",
+      "description": "Skills for Australian F–12 Education: curriculum-aligned lesson plan creation, lesson differentiation, lesson preparation, and checks for understanding across Mathematics, English, Science, and HASS, using ACARA v9.0 (F–10) and QCAA senior syllabuses (Years 11–12).",
       "version": "0.9.0",
       "category": "education",
       "source": "./plugin"

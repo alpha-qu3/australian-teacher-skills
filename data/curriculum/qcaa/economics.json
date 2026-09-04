@@ -1,0 +1,75 @@
+{
+  "family": "Humanities and Social Sciences",
+  "type": "General senior syllabus",
+  "version_or_effective_year": "2025 v1.4",
+  "objectives": [
+    "Understand the role and nature of economics.",
+    "Comprehend economic concepts, principles and processes.",
+    "Analyse economic information and apply economic reasoning.",
+    "Evaluate economic systems, policies and outcomes.",
+    "Create responses that communicate economic meaning."
+  ],
+  "subject_matter": {
+    "units": [
+      {
+        "unit": 1,
+        "title": "Markets in action",
+        "description": "Students explore the role and nature of economics. They consider the economic problem of scarcity and the allocation of resources in a market economy. Students examine how markets work, the causes and consequences of market failure, and the role of government in correcting market outcomes."
+      },
+      {
+        "unit": 2,
+        "title": "Managing the economy",
+        "description": "Students examine the performance of the Australian economy and the role of government in managing economic outcomes. They explore measures of economic activity, inflation, unemployment, and the goals of economic policy. Students analyse the instruments of fiscal and monetary policy and their effects on economic variables."
+      },
+      {
+        "unit": 3,
+        "title": "Contemporary issues in economics",
+        "description": "Students investigate a range of contemporary economic issues, including income inequality, environmental sustainability, and the economic implications of globalisation. They apply economic reasoning to evaluate competing policy positions and the trade-offs involved in addressing complex economic problems."
+      },
+      {
+        "unit": 4,
+        "title": "Global economics",
+        "description": "Students examine the interdependencies of the global economy, including international trade, finance, and economic development. They analyse the benefits and costs of trade liberalisation, the role of multinational corporations, and the challenges facing developing economies in a globalised world."
+      }
+    ]
+  },
+  "assessment_model": {
+    "internal_assessment": [
+      {
+        "type": "Examination",
+        "title": "Combination response",
+        "weighting": 25,
+        "description": "Internal assessment 1: Examination — combination response (25%)"
+      },
+      {
+        "type": "Investigation",
+        "title": "Investigation",
+        "weighting": 25,
+        "description": "Internal assessment 2: Investigation (25%)"
+      },
+      {
+        "type": "Examination",
+        "title": "Extended response",
+        "weighting": 25,
+        "description": "Internal assessment 3: Examination — extended response (25%)"
+      }
+    ],
+    "external_assessment": {
+      "type": "Examination",
+      "title": "Combination response",
+      "weighting": 25,
+      "description": "External assessment: Examination — combination response (25%)"
+    }
+  },
+  "source_locators": {
+    "main_page": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/economics",
+    "current_syllabus_pdf": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_economics_25_syll.pdf",
+    "key_changes": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_key_subj_changes_ea_26.pdf",
+    "amendment_report": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_economics_25_amend_report_syll_v1_4.pdf",
+    "sample_ia1": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_economics_25_unit3_ia1_smple_ass_inst.pdf",
+    "sample_ia2": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_economics_25_unit3_ia2_smple_ass_inst.pdf",
+    "sample_ia3": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_economics_25_ia3_smple_ass_inst.pdf",
+    "qa_confirmation": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_qa_confirm_submission_info.pdf",
+    "endorsement_2026": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_economics_26_subj_rpt_endorse.pdf"
+  }
+}

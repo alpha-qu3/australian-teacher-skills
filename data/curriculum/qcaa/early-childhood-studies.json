@@ -1,0 +1,73 @@
+{
+  "family": "Health and Physical Education",
+  "type": "Applied senior syllabus",
+  "version_or_effective_year": "2024 v1.2",
+  "implementation": "For implementation with students who will complete their study of the course in 2025 or beyond.",
+  "objectives": [
+    "Investigate the fundamentals and practices of early childhood learning.",
+    "Plan learning activities.",
+    "Implement learning activities.",
+    "Evaluate learning activities."
+  ],
+  "course_structure": {
+    "description": "At least four QCAA-developed units of 55 hours each from which schools build their course of study. Schools select four units from the six unit options and decide their order of implementation; Units 1 and 2 are completed before Units 3 and 4, which are studied as a pair.",
+    "unit_options": [
+      {
+        "option": "A",
+        "title": "Play and creativity",
+        "description": "Students explore the fundamentals and practices of early childhood learning through the context of play and creativity, planning, implementing and evaluating play-based learning activities."
+      },
+      {
+        "option": "B",
+        "title": "Literacy and numeracy",
+        "description": "Students explore the fundamentals and practices of early childhood learning through actively responsive play-based learning activities that support children's literacy and numeracy."
+      },
+      {
+        "option": "C",
+        "title": "Children's development",
+        "description": "Students explore the fundamentals and practices of early childhood learning in the context of children's development, promoting development according to children's needs."
+      },
+      {
+        "option": "D",
+        "title": "Children's wellbeing",
+        "description": "Students explore the fundamentals and practices of early childhood learning in the context of children's wellbeing, supporting individual needs through play-based learning activities."
+      },
+      {
+        "option": "E",
+        "title": "Indoor and outdoor environments",
+        "description": "Students explore the fundamentals and practices of early childhood learning in the context of age-appropriate indoor and outdoor learning environments that support children's needs."
+      },
+      {
+        "option": "F",
+        "title": "The early childhood education and care sector",
+        "description": "Students explore the fundamentals and practices of early childhood learning in the context of the childcare industry and the policies and frameworks that guide education and care services."
+      }
+    ]
+  },
+  "assessment_model": {
+    "units_1_and_2": "Schools develop at least two but no more than four assessments, complete at least one assessment for each unit and assess each unit objective at least once.",
+    "units_3_and_4": "Schools develop four assessment instruments in Units 3 and 4 using the assessment specifications and conditions in the syllabus, following each selected unit option's Investigation (X1) and Project (X2) play-based activity instrument pattern.",
+    "instruments": [
+      { "code": "A1", "type": "Investigation", "description": "Play-based activity (play/creativity)" },
+      { "code": "A2", "type": "Project", "description": "Play-based activity (play/creativity)" },
+      { "code": "B1", "type": "Investigation", "description": "Play-based activity (literacy/numeracy)" },
+      { "code": "B2", "type": "Project", "description": "Play-based activity (literacy/numeracy)" },
+      { "code": "C1", "type": "Investigation", "description": "Play-based activity (children's development)" },
+      { "code": "C2", "type": "Project", "description": "Play-based activity (children's development)" },
+      { "code": "D1", "type": "Investigation", "description": "Play-based activity (children's wellbeing)" },
+      { "code": "D2", "type": "Project", "description": "Play-based activity (children's wellbeing)" },
+      { "code": "E1", "type": "Investigation", "description": "Play-based activity (indoor/outdoor environments)" },
+      { "code": "E2", "type": "Project", "description": "Play-based activity (indoor/outdoor environments)" },
+      { "code": "F1", "type": "Investigation", "description": "Play-based activity (children's individual needs)" },
+      { "code": "F2", "type": "Project", "description": "Play-based activity (children's individual needs)" }
+    ],
+    "external_assessment": "None. Applied senior syllabuses are internally assessed; results are reported as A-E judgements."
+  },
+  "source_locators": {
+    "main_page": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/health-physical-education/early-childhood-studies",
+    "current_syllabus_pdf": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_early_childhood_24_app_syll.pdf",
+    "sample_assessment_b1_investigation_numeracy": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hpe/snr_early_childhood_24_app_smple_ass_inst_b1_invest.pdf",
+    "sample_assessment_b2_project_literacy": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hpe/snr_early_childhood_24_app_smple_ass_inst_b2_proj.pdf",
+    "resource_search": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabus-implementation/senior-syllabus-resource-search"
+  }
+}

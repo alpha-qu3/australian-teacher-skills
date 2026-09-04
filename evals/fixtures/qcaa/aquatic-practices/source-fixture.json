@@ -1,0 +1,50 @@
+{
+  "fixture_id": "QA-008-001",
+  "qsub_id": "QSUB-0008",
+  "subject": "Aquatic Practices",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/aquatic-practices",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Aquatic Practices",
+      "document_title": "Aquatic Practices Applied senior syllabus (live subject page)",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/aquatic-practices",
+      "locator": "HTML: #content; Syllabus and Resources sections; current syllabus link to 2024 v1.2 (PDF, 599.9 KB); implementation from 2025 or beyond",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Aquatic Practices",
+      "document_title": "Aquatic Practices 2024 v1.2 Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_aquatic_24_app_syll.pdf",
+      "locator": "PDF: full document (65 pages); objectives p.3; course structure pp.4-10; unit options pp.11-28; assessment pp.29-64; version history p.65",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/aquatic-practices"
+}

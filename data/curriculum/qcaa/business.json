@@ -1,0 +1,81 @@
+{
+  "subject_id": "qcaa-business",
+  "qsub_id": "QSUB-0012",
+  "slug": "business",
+  "subject_name": "Business",
+  "subject_family": "Humanities and Social Sciences",
+  "course_type": "General",
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "authority": {
+    "authority_name": "QCAA",
+    "authority_type": "statutory curriculum authority",
+    "authority_evidence_url": "https://www.qcaa.qld.edu.au/about",
+    "publication_owner": "Queensland Curriculum and Assessment Authority",
+    "authority_verification_status": "verified"
+  },
+  "current_syllabus": {
+    "document_title": "Business General senior syllabus 2025 v1.3",
+    "version_or_effective_year": "2025",
+    "implementation_note": "For implementation with students who will complete their study of the course in 2026 or beyond.",
+    "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_business_25_syll.pdf",
+    "locator": "Retrieved text representation at docs/localisation/sources/qcaa/business/syllabus-text-representation.txt; derived from the official PDF URL after direct PDF retrieval returned Cloudflare 403",
+    "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "retrieval_date": "2026-08-31",
+    "content_hash": "sha256:82d1415581faf41498e012c1032c4ee4f06bfed31674dba4b2d201375debef29",
+    "representation_type": "Retrieved plain-text syllabus representation",
+    "representation_path": "docs/localisation/sources/qcaa/business/syllabus-text-representation.txt"
+  },
+  "objectives_and_approach": {
+    "summary": "Students investigate the business life cycle from seed to post-maturity; examine business data and information; and apply concepts, theories and strategies for leadership, management and entrepreneurship across finance, human resources, marketing and operations.",
+    "inquiry_and_evaluation": "Learning integrates inquiry with authentic case studies. Students analyse and interpret business data and information and evaluate strategies using competitiveness, effectiveness, efficiency and stakeholder satisfaction."
+  },
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Business creation",
+      "topics": ["Fundamentals of business", "Creation of business ideas"],
+      "subject_matter": "Seed-stage business ideas, strategic planning, business environments, leadership, management, entrepreneurship, finance, human resources, marketing, operations and technology; SWOT and PEST analysis."
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Business growth",
+      "topics": ["Establishment of a business", "Entering markets"],
+      "subject_matter": "Start-up and growth stages, financial and human-resource strategies, market entry and authentic franchise or market-entry case studies; STEEPLE, break-even, SWOT and USP analysis."
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Business diversification",
+      "topics": ["Competitive markets", "Strategic development"],
+      "subject_matter": "Maturity-stage diversification, global-market expansion and competitive advantage; SWOT, STEEPLE, USP and power-interest-grid analysis; an Australian business expanding into an Asian market."
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Business evolution",
+      "topics": ["Repositioning a business", "Transformation of a business"],
+      "subject_matter": "Post-maturity repositioning and transformation; change management and leadership across finance, human resources, marketing and operations; SWOT, STEEPLE, force-field and Porter's five-forces analysis."
+    }
+  ],
+  "assessment_model": {
+    "scope": "Units 3 and 4",
+    "internal_assessments": [
+      {"code": "IA1", "title": "Examination - combination response", "weighting": "25%"},
+      {"code": "IA2", "title": "Business report", "weighting": "25%"},
+      {"code": "IA3", "title": "Feasibility report", "weighting": "25%"}
+    ],
+    "external_assessment": {"title": "Examination - combination response", "weighting": "25%"},
+    "marking_and_confirmation": "Schools mark the internal assessment instruments using ISMGs and report provisional criterion marks to QCAA. Confirmed internal results are combined with the QCAA-developed and marked external assessment result."
+  },
+  "official_support_resources": [
+    {"title": "Key senior subject changes: For external assessment in 2026", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_key_subj_changes_ea_26.pdf"},
+    {"title": "Business 2025 external assessment marking guide", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_ea_mark_guide_pub.pdf"},
+    {"title": "Business 2025 external assessment question and response book", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_ea_question_response.pdf"},
+    {"title": "Business 2025 external assessment stimulus book", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_ea_stimulus.pdf"},
+    {"title": "Sample assessment instrument: Examination - combination response (Unit 3, IA1)", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_unit3_ia1_smple_ass_inst.pdf"},
+    {"title": "Sample assessment instrument: Business report (Unit 3, IA2)", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_unit3_ia2_smple_ass_inst.pdf"},
+    {"title": "Sample assessment instrument: Feasibility report (Unit 4, IA3)", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_ia3_smple_ass_inst.pdf"},
+    {"title": "Subject report: Endorsement 2026", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_26_subj_rpt_endorse.pdf"},
+    {"title": "Subject report 2025", "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/hass/snr_business_25_subj_rpt.pdf"}
+  ],
+  "source_register_path": "docs/localisation/sources/qcaa/business/source-register.csv"
+}

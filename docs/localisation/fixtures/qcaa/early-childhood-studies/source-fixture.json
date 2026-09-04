@@ -1,0 +1,71 @@
+{
+  "fixture_id": "QA-ECS-001",
+  "created_date": "2026-09-02",
+  "subject": "Early Childhood Studies",
+  "qsub_id": "QSUB-0025",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+    "publication_owner": "Queensland Curriculum and Assessment Authority",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Health and Physical Education",
+  "course_type": "Applied",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Health and Physical Education",
+      "document_title": "Early Childhood Studies Applied senior syllabus (HTML page)",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/health-physical-education/early-childhood-studies",
+      "locator": "HTML page / Syllabus and Resources sections; last updated 13 September 2024",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02",
+      "content_hash": "sha256:c6b1e6e73506bcd1266451b36c3373b2ea26942fff56a75c651788e5327bc011"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Health and Physical Education",
+      "document_title": "Early Childhood Studies 2024 v1.2 Applied senior syllabus PDF",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_early_childhood_24_app_syll.pdf",
+      "locator": "PDF (53 pages; page-catalogued 690.0 KB)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02",
+      "content_hash": "sha256:23ea1845c06530914ff072bbeb4fbbd5d404931beee68e7af4938799ba838085"
+    }
+  ],
+  "current_vs_superseded": {
+    "current": [
+      "Early Childhood Studies Applied senior syllabus 2024 v1.2 (subject page and syllabus PDF)"
+    ],
+    "superseded_editions_not_registered": [
+      "v1.0 (January 2023, familiarisation and planning)",
+      "v1.1 (August 2023, implementation with minor updates)"
+    ],
+    "historical_external_assessment_papers": [],
+    "notes": "v1.0 and v1.1 are listed in the v1.2 syllabus version history but are not published on the current subject page and were not registered as separate source records. Early Childhood Studies is an Applied syllabus with no external assessment."
+  },
+  "validation_rules": {
+    "content_hash_pattern": "^sha256:[a-f0-9]{64}$",
+    "authority_name_enum": ["ACARA", "QCAA", "NCCD", "Queensland Department of Education"],
+    "authority_type_enum": ["statutory curriculum authority", "government department/agency", "official national education program"],
+    "jurisdiction_enum": ["Australia", "Queensland"],
+    "school_phase_enum": ["F-10", "Years 11-12", "F-12", "cross-phase"]
+  }
+}

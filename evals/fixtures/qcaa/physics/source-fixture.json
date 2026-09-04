@@ -1,0 +1,82 @@
+{
+  "fixture_id": "QA-067-001",
+  "qsub_id": "QSUB-0067",
+  "subject": "Physics",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/physics",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Physics",
+      "document_title": "Physics General senior syllabus HTML page",
+      "version_or_effective_year": "Physics 2025 v1.3 (for students completing the course in 2026 or beyond)",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/physics",
+      "locator": "HTML: #content; Syllabus and Resources sections (associated material, past papers, quality assurance, sample assessment instruments, sample marking schemes, subject reports); last updated 13 April 2026",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Physics",
+      "document_title": "Physics 2025 v1.3 General senior syllabus",
+      "version_or_effective_year": "Physics 2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_physics_25_syll.pdf",
+      "locator": "PDF: cover; p. 4 (syllabus objectives); p. 5 (course structure); pp. 19, 25, 30, 35 (Units 1-4); pp. 40, 43, 47, 51 (IA1, IA2, IA3, EA)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Physics",
+      "document_title": "Physics 2025 Formula and data book",
+      "version_or_effective_year": "Physics 2025",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_physics_25_formula_data_book.pdf",
+      "locator": "PDF: 12-page formula and data book for the 2025 syllabus",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Physics",
+      "document_title": "Physics 2025 v1.2 IA1 sample assessment instrument \u2014 Data test (10%)",
+      "version_or_effective_year": "Physics 2025 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_physics_25_ia1_smple_ass_inst.pdf",
+      "locator": "PDF: Unit 3 IA1 sample assessment instrument (13 pages)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/physics"
+}

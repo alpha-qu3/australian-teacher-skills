@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-062-001",
+  "qsub_id": "QSUB-0062",
+  "subject": "Music Extension (Performance)",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-extension-performance",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "The Arts",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Music Extension (Performance) General senior syllabus (HTML page)",
+      "version_or_effective_year": "2026 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-extension-performance",
+      "locator": "HTML page / main heading 'Music Extension (Performance) General senior syllabus 2026'; document link 'Music Extension \u2014 Performance 2026 v1.3 (PDF, 648.0 KB)'; for implementation with students completing their study in 2026 or beyond; last updated 15 June 2026",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Music Extension \u2014 Performance 2026 v1.3 General senior syllabus PDF",
+      "version_or_effective_year": "2026 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_music_ext_26_perf_syll.pdf",
+      "locator": "PDF (648.0 KB); cover 'Music Extension \u2014 Performance 2026 v1.3 General (Extension) senior syllabus'; January 2026; \u00a9 State of Queensland (QCAA) 2026",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "The Arts",
+      "document_title": "Key senior subject changes: For external assessment in 2026",
+      "version_or_effective_year": "2026",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_ext_key_subj_changes_ea_26.pdf",
+      "locator": "PDF (295.1 KB); 'Key senior subject changes / For external assessment in 2026'; July 2026; \u00a9 State of Queensland (QCAA) 2026; lists external assessment changes by learning area including The Arts",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-extension-performance"
+}

@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-064-001",
+  "qsub_id": "QSUB-0064",
+  "subject": "Numeracy",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/numeracy",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Mathematics",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Mathematics",
+      "document_title": "Numeracy Short Course syllabus 2025 (live subject page)",
+      "version_or_effective_year": "2025 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/numeracy",
+      "locator": "HTML page; breadcrumb Senior subjects > Syllabuses > Mathematics > Numeracy; Syllabus section lists 'Numeracy Short Course syllabus 2025' and 'Numeracy Short Course 2025 v1.2 (PDF, 584.1 KB)'; Resources section lists sample assessment instruments and marking schemes; Last updated 1 June 2026",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-03"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Mathematics",
+      "document_title": "Numeracy Short Course 2025 v1.2 senior syllabus PDF",
+      "version_or_effective_year": "2025 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_numeracy_25_app_syll.pdf",
+      "locator": "PDF; cover page confirms 'Numeracy 2025 v1.2 Short Course senior syllabus | January 2026'; 29 pages; objectives, topics 1-2, internal assessment options A-D and version history verified in rendered text",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-03"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Mathematics",
+      "document_title": "Formula book: Numeracy Short Course 2025",
+      "version_or_effective_year": "2025",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/mathematics/snr_numeracy_25_formula_book.pdf",
+      "locator": "PDF; associated material linked from the Numeracy subject page 'Formula book: Numeracy Short Course 2025' (PDF, 368.5 KB)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-03"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/numeracy"
+}

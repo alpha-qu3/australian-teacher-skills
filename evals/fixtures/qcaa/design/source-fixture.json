@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-021-001",
+  "qsub_id": "QSUB-0021",
+  "subject": "Design",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/design",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Technologies",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Design",
+      "document_title": "Design General senior syllabus",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/design",
+      "locator": "HTML: full syllabus section; version confirmed as 2025 v1.3; Resources listing includes current sample assessment instruments and historical past papers; last updated 15 June 2026",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Design",
+      "document_title": "Design 2025 v1.3 General senior syllabus",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_design_25_syll.pdf",
+      "locator": "PDF: cover; pp. 3-4 (syllabus objectives); pp. 13, 18, 22, 26 (units); pp. 30, 34, 39, 44 (assessment); p. 47 (version history)",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Design",
+      "document_title": "Key senior subject changes: For external assessment in 2026",
+      "version_or_effective_year": "2026",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_key_subj_changes_ea_26.pdf",
+      "locator": "PDF: 17 pages; Design entry lists plain-language and circular design subject-matter revisions for external assessment in 2026",
+      "licence": "CC BY 4.0",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/design"
+}

@@ -1,0 +1,16 @@
+# Allowlist for US-specific terms that may remain in the codebase with justification.
+# Terms listed here will NOT cause test failures in test_us_terminology.py.
+# Each entry should include a reason in comments.
+#
+# Format: one term per line, starting with '- ' or '* '
+
+- "K-12"          # Historical: k12-* skill directory names in git history
+- "k12"           # Historical: k12-* skill directory names in git history
+- "CCSS-M"        # Historical: referenced in math reference files and skill instructions
+- "CCSS-ELA"      # Historical: referenced in ELA reference files and skill instructions
+- "NGSS"          # Historical: referenced in science reference files and skill instructions
+- "OpenSciEd"     # Historical: curriculum name in science reference files
+- "Illustrative Mathematics"  # Historical: curriculum name in math reference files
+- "Learning Commons"  # Unavoidable attribution: required in copyright/license NOTICE in SKILL.md frontmatter (line beginning with 'license:')
+- "Learning Commons Knowledge Graph"  # Unavoidable attribution: required in copyright/license NOTICE in SKILL.md frontmatter (line beginning with 'license:')
+- "ELA"           # Abbreviation for English in file references (e.g. references/ela.md)

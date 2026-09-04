@@ -1,0 +1,50 @@
+{
+  "fixture_id": "QA-071-001",
+  "qsub_id": "QSUB-0071",
+  "subject": "Social & Community Studies",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/social-community-studies",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Humanities and Social Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Social & Community Studies",
+      "document_title": "Social & Community Studies Applied senior syllabus (HTML subject page)",
+      "version_or_effective_year": "2024 v1.2 (implementation from 2025)",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/social-community-studies",
+      "locator": "HTML: #content; H1 \"Social & Community Studies Applied senior syllabus\"; Syllabus > \"Social & Community Studies Applied senior syllabus 2024\"; Resources > \"No resources available\"; footer \"\u00a9 State of Queensland (Queensland Curriculum and Assessment Authority) 2026\"; \"Last updated: 15 June 2026\"",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Social & Community Studies",
+      "document_title": "Social & Community Studies 2024 v1.2 Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.2 (January 2026)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_social_24_app_syll.pdf",
+      "locator": "PDF: 57-page document; cover \"Social & Community Studies 2024 v1.2 Applied senior syllabus\", January 2026; syllabus objectives p. 3; unit options pp. 9-20; assessment specifications pp. 21-52; version history p. 53",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/social-community-studies"
+}

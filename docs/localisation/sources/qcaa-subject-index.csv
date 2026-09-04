@@ -1,0 +1,79 @@
+qsub_id,slug,name,subject_family,course_type,official_page_url,authority_verification_status,retrieval_date
+QSUB-0001,aboriginal-torres-strait-islander-languages,Aboriginal & Torres Strait Islander Languages,Languages,Short Course,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/aboriginal-torres-strait-islander-languages,verified,2026-08-30
+QSUB-0002,aboriginal-torres-strait-islander-studies,Aboriginal & Torres Strait Islander Studies,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/aboriginal-torres-strait-islander-studies,verified,2026-08-30
+QSUB-0003,accounting,Accounting,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/accounting,verified,2026-08-30
+QSUB-0004,aerospace-systems,Aerospace Systems,Technologies,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/aerospace-systems,verified,2026-08-30
+QSUB-0005,agricultural-practices,Agricultural Practices,Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/agricultural-practices,verified,2026-08-30
+QSUB-0006,agricultural-science,Agricultural Science,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/agricultural-science,verified,2026-08-30
+QSUB-0007,ancient-history,Ancient History,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/ancient-history,verified,2026-08-30
+QSUB-0008,aquatic-practices,Aquatic Practices,Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/aquatic-practices,verified,2026-08-30
+QSUB-0009,arts-in-practice,Arts in Practice,The Arts,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/arts-in-practice,verified,2026-08-30
+QSUB-0010,biology,Biology,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/biology,verified,2026-08-30
+QSUB-0011,building-construction-skills,Building & Construction Skills,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/building-construction-skills,verified,2026-08-30
+QSUB-0012,business,Business,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/business,verified,2026-08-30
+QSUB-0013,business-studies,Business Studies,Humanities and Social Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/business-studies,verified,2026-08-30
+QSUB-0014,career-education,Career Education,Humanities and Social Sciences,Short Course,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/career-education,verified,2026-08-30
+QSUB-0015,chemistry,Chemistry,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/chemistry,verified,2026-08-30
+QSUB-0016,chinese,Chinese,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/chinese,verified,2026-08-30
+QSUB-0017,chinese-extension,Chinese Extension,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/chinese-extension,verified,2026-08-30
+QSUB-0018,critical-thinking,Critical Thinking,Humanities and Social Sciences,Short Course,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/critical-thinking,verified,2026-08-30
+QSUB-0019,dance,Dance,The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/dance,verified,2026-08-30
+QSUB-0020,dance-in-practice,Dance in Practice,The Arts,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/dance-in-practice,verified,2026-08-30
+QSUB-0021,design,Design,Technologies,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/design,verified,2026-08-30
+QSUB-0022,digital-solutions,Digital Solutions,Technologies,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/digital-solutions,verified,2026-08-30
+QSUB-0023,drama,Drama,The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/drama,verified,2026-08-30
+QSUB-0024,drama-in-practice,Drama in Practice,The Arts,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/drama-in-practice,verified,2026-08-30
+QSUB-0025,early-childhood-studies,Early Childhood Studies,Health and Physical Education,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/health-physical-education/early-childhood-studies,verified,2026-08-30
+QSUB-0026,earth-environmental-science,Earth & Environmental Science,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/earth-environmental-science,verified,2026-08-30
+QSUB-0027,economics,Economics,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/economics,verified,2026-08-30
+QSUB-0028,engineering,Engineering,Technologies,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/engineering,verified,2026-08-30
+QSUB-0029,engineering-skills,Engineering Skills,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/engineering-skills,verified,2026-08-30
+QSUB-0030,english,English,English,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english,verified,2026-08-30
+QSUB-0031,english-literature-extension,English & Literature Extension,English,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english-literature-extension,verified,2026-08-30
+QSUB-0032,english-as-an-additional-language,English as an Additional Language,English,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english-as-an-additional-language,verified,2026-08-30
+QSUB-0033,essential-english,Essential English,English,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/essential-english,verified,2026-08-30
+QSUB-0034,essential-mathematics,Essential Mathematics,Mathematics,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/essential-mathematics,verified,2026-08-30
+QSUB-0035,fashion,Fashion,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/fashion,verified,2026-08-30
+QSUB-0036,film-television-new-media,"Film, Television & New Media",The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/film-television-new-media,verified,2026-08-30
+QSUB-0037,food-nutrition,Food & Nutrition,Technologies,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/food-nutrition,verified,2026-08-30
+QSUB-0038,french,French,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/french,verified,2026-08-30
+QSUB-0039,french-extension,French Extension,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/french-extension,verified,2026-08-30
+QSUB-0040,furnishing-skills,Furnishing Skills,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/furnishing-skills,verified,2026-08-30
+QSUB-0041,general-mathematics,General Mathematics,Mathematics,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/general-mathematics,verified,2026-08-30
+QSUB-0042,geography,Geography,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/geography,verified,2026-08-30
+QSUB-0043,german,German,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/german,verified,2026-08-30
+QSUB-0044,german-extension,German Extension,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/german-extension,verified,2026-08-30
+QSUB-0045,health,Health,Health and Physical Education,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/health-physical-education/health,verified,2026-08-30
+QSUB-0046,hospitality-practices,Hospitality Practices,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/hospitality-practices,verified,2026-08-30
+QSUB-0047,industrial-graphics-skills,Industrial Graphics Skills,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/industrial-graphics-skills,verified,2026-08-30
+QSUB-0048,industrial-technology-skills,Industrial Technology Skills,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/industrial-technology-skills,verified,2026-08-30
+QSUB-0049,information-communication-technology,Information & Communication Technology,Technologies,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/information-communication-technology-skills,verified,2026-08-30
+QSUB-0050,italian,Italian,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/italian,verified,2026-08-30
+QSUB-0051,japanese,Japanese,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/japanese,verified,2026-08-30
+QSUB-0052,legal-studies,Legal Studies,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/legal-studies,verified,2026-08-30
+QSUB-0053,literacy,Literacy,English,Short Course,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/literacy,verified,2026-08-30
+QSUB-0054,literature,Literature,English,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/literature,verified,2026-08-30
+QSUB-0055,marine-science,Marine Science,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/marine-science,verified,2026-08-30
+QSUB-0056,mathematical-methods,Mathematical Methods,Mathematics,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/mathematics-methods,verified,2026-08-30
+QSUB-0057,media-arts-in-practice,Media Arts in Practice,The Arts,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/media-arts-in-practice,verified,2026-08-30
+QSUB-0058,modern-history,Modern History,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/modern-history,verified,2026-08-30
+QSUB-0059,music,Music,The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music,verified,2026-08-30
+QSUB-0060,music-extension-composition,Music Extension (Composition),The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-extension-composition,verified,2026-08-30
+QSUB-0061,music-extension-musicology,Music Extension (Musicology),The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-extension-musicology,verified,2026-08-30
+QSUB-0062,music-extension-performance,Music Extension (Performance),The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-extension-performance,verified,2026-08-30
+QSUB-0063,music-in-practice,Music in Practice,The Arts,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/music-in-practice,verified,2026-08-30
+QSUB-0064,numeracy,Numeracy,Mathematics,Short Course,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/numeracy,verified,2026-08-30
+QSUB-0065,philosophy-reason,Philosophy & Reason,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/philosophy-reason,verified,2026-08-30
+QSUB-0066,physical-education,Physical Education,Health and Physical Education,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/health-physical-education/physical-education,verified,2026-08-30
+QSUB-0067,physics,Physics,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/physics,verified,2026-08-30
+QSUB-0068,psychology,Psychology,Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/psychology,verified,2026-08-30
+QSUB-0069,religion-ethics,Religion & Ethics,Humanities and Social Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/religion-ethics,verified,2026-08-30
+QSUB-0070,science-in-practice,Science in Practice,Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/science-in-practice,verified,2026-08-30
+QSUB-0071,social-community-studies,Social & Community Studies,Humanities and Social Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/social-community-studies,verified,2026-08-30
+QSUB-0072,spanish,Spanish,Languages,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/spanish,verified,2026-08-30
+QSUB-0073,specialist-mathematics,Specialist Mathematics,Mathematics,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/mathematics/specialist-mathematics,verified,2026-08-30
+QSUB-0074,sport-recreation,Sport & Recreation,Health and Physical Education,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/health-physical-education/sport-recreation,verified,2026-08-30
+QSUB-0075,study-of-religion,Study of Religion,Humanities and Social Sciences,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/study-of-religion,verified,2026-08-30
+QSUB-0076,tourism,Tourism,Humanities and Social Sciences,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/humanities-social-sciences/tourism,verified,2026-08-30
+QSUB-0077,visual-art,Visual Art,The Arts,General,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/visual-art,verified,2026-08-30
+QSUB-0078,visual-arts-in-practice,Visual Arts in Practice,The Arts,Applied,https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/visual-arts-in-practice,verified,2026-08-30

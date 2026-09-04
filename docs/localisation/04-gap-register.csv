@@ -1,0 +1,6 @@
+gap_id,concept,scope,evidence_source_ids,strategy,status,reviewer_decision
+GAP-001,Learning-commons misconception library,US Learning Commons Knowledge Graph misconceptions,rejected,Provide recommendations from an authority-verified ACARA/NCCD/Qld-Ed source or leave the documented-misconception quality bar curriculum-neutral,open,pending
+GAP-002,Learning progressions,US learning progressions (e.g. CGI, Lexile, IM 360) not present in the v9 Australian Curriculum,no-equivalent,Ask for teacher-provided or authority-verified Australian progressions; never map Lexile/IM 360 to an Australian identifier,open,pending
+GAP-003,High-quality instructional materials (HQIM) catalogues,Jurisdiction-specific curriculum search for Australian v9 / QCAA syllabuses,no-equivalent,Use teacher-provided code/URL; cite official ACARA/QCAA source; say when no exact alignment is available,open,pending
+GAP-004,Curriculum search tooling,US-standards-contoured lookup returns curriculum-neutral contract,open,Explicit not-found result; safe offline/no-connector behaviour; never fabricate a code,open,pending
+GAP-005,Reasonable-adjustment / EAL-D language support,Authority-verified ACARA/NCCD/Qld-Ed inclusion guidance,to-confirm,Map 504/IEP/WIDA only to authority-verified ACARA/NCCD/Qld-Ed concepts; no unsupported equivalences,open,pending
