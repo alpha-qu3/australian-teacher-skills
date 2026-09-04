@@ -1,0 +1,152 @@
+mapping_id,original_id,eval_dir,rubric_file,criterion_name,source_authority,mapping_action,mapping_status,australian_notes,authority_required
+LPC-001,australian-lesson-plan-creation/rubrics/shared.csv,P1,retain,approved,Standard named verbatim - retain with Australian Curriculum codes (ACxxxxxx),yes
+LPC-002,australian-lesson-plan-creation/rubrics/shared.csv,P2,retain,approved,Prerequisite / prior standard - use ACARA progression codes,yes
+LPC-003,australian-lesson-plan-creation/rubrics/shared.csv,P3,retain,approved,Learning goal separates Big Idea from SWBAT - adapt to Australian pedagogical terminology,no
+LPC-004,australian-lesson-plan-creation/rubrics/shared.csv,P4a,retain,approved,Anticipated challenges minimum count - retain,no
+LPC-005,australian-lesson-plan-creation/rubrics/shared.csv,P4b,retain,approved,Anticipated challenges completeness - retain,no
+LPC-006,australian-lesson-plan-creation/rubrics/shared.csv,P5,retain,approved,Lesson phases sequenced - retain with Australian instructional models,no
+LPC-007,australian-lesson-plan-creation/rubrics/shared.csv,P6a,retain,approved,Look-fors minimum count - retain,no
+LPC-008,australian-lesson-plan-creation/rubrics/shared.csv,P6b,retain,approved,Look-fors observable behaviour - retain,no
+LPC-009,australian-lesson-plan-creation/rubrics/shared.csv,P7,retain,approved,Visual scaffolds with rationale - retain,no
+LPC-010,australian-lesson-plan-creation/rubrics/shared.csv,P8,retain,approved,Student engagement hook - retain with Australian contexts,no
+LPC-011,australian-lesson-plan-creation/rubrics/shared.csv,P9,retain,approved,Timing is realistic - retain,no
+LPC-012,australian-lesson-plan-creation/rubrics/shared.csv,R1,retain,approved,Grade-level demand maintained - use Australian achievement standards,yes
+LPC-013,australian-lesson-plan-creation/rubrics/shared.csv,R2,retain,approved,At least one task demands student reasoning - retain,no
+LPC-014,australian-lesson-plan-creation/rubrics/shared.csv,R3,retain,approved,Exit ticket targets hardest case - retain,no
+LPC-015,australian-lesson-plan-creation/rubrics/shared.csv,R4,retain,approved,Student agency prompt on worksheet - retain,no
+LPC-016,australian-lesson-plan-creation/rubrics/shared.csv,O2,retain,approved,Student materials contain no teacher-only content - retain,no
+LPC-017,australian-lesson-plan-creation/rubrics/shared.csv,O3,retain,approved,Observation template rows usable - retain,no
+LPC-018,australian-lesson-plan-creation/rubrics/shared.csv,O3b,retain,approved,Exit ticket section present and specific - retain,no
+LPC-019,australian-lesson-plan-creation/rubrics/shared.csv,O4,retain,approved,Lesson plan concise and scannable - retain,no
+LPC-020,australian-lesson-plan-creation/rubrics/shared.csv,O5,retain,approved,Universal Design access features - retain,no
+LPC-021,australian-lesson-plan-creation/rubrics/shared.csv,O6,retain,approved,Teacher and student materials align - retain,no
+LPC-022,australian-lesson-plan-creation/rubrics/shared.csv,O7,retain,approved,Teacher adaptation rationale notes - retain,no
+LPC-023,australian-lesson-plan-creation/rubrics/shared.csv,O8,retain,approved,Outputs specific not generic - retain,no
+LPC-024,australian-lesson-plan-creation/rubrics/shared.csv,O9,retain,approved,Narrative coherence across artifacts - retain,no
+LPC-025,australian-lesson-plan-creation/rubrics/shared.csv,O10,retain,approved,No contradictions across artifacts - retain,no
+LPC-026,australian-lesson-plan-creation/rubrics/shared.csv,O11,retain,approved,Lesson plan internally consistent - retain,no
+LPC-027,australian-lesson-plan-creation/rubrics/shared.csv,O12,retain,approved,Closing phase introduces nothing new - retain,no
+LPC-028,australian-lesson-plan-creation/rubrics/shared.csv,M3,retain,approved,Follow-up options offered - retain,no
+LPC-029,australian-lesson-plan-creation/rubrics/shared.csv,M5,retain,approved,No curriculum-specific terminology for non-curriculum teachers - retain for ACARA context,no
+LPC-030,australian-lesson-plan-creation/rubrics/shared.csv,O13,retain,approved,Information density - retain,no
+LPC-031,australian-lesson-plan-creation/rubrics/shared.csv,O14,retain,approved,Writing space matches demand - retain,no
+LPC-032,australian-lesson-plan-creation/rubrics/shared.csv,P10,retain,approved,Standards economy - use ACARA codes,yes
+LPC-033,australian-lesson-plan-creation/rubrics/shared.csv,O15,retain,approved,Document set fits the lesson - retain,no
+LPC-034,australian-lesson-plan-creation/rubrics/math.csv,P-M1,localise,pending-reviewer,Instructional model matches curriculum signal - AC/QCAA context,yes
+LPC-035,australian-lesson-plan-creation/rubrics/math.csv,P-M2,retain,approved,Misconceptions equation-level - retain,no
+LPC-036,australian-lesson-plan-creation/rubrics/math.csv,P-M3,retain,approved,Discuss phase with talk moves - retain,no
+LPC-037,australian-lesson-plan-creation/rubrics/math.csv,P-M4,retain,approved,Problem set covers structural variety - retain,no
+LPC-038,australian-lesson-plan-creation/rubrics/math.csv,R-M1,retain,approved,Standard numerical scope used - retain,no
+LPC-039,australian-lesson-plan-creation/rubrics/math.csv,O-M1,retain,approved,Work surface matches task - retain,no
+LPC-040,australian-lesson-plan-creation/rubrics/ela.csv,P-E1,localise,pending-reviewer,Anchor text grade-level complex - replace Lexile with Australian text complexity measures,yes
+LPC-041,australian-lesson-plan-creation/rubrics/ela.csv,P-E2,retain,approved,Discussion demands analysis not summary - retain,no
+LPC-042,australian-lesson-plan-creation/rubrics/ela.csv,P-E3,retain,approved,Writing task requires text evidence - retain,no
+LPC-043,australian-lesson-plan-creation/rubrics/ela.csv,P-E4,localise,pending-reviewer,No three-cueing strategies - Australian phonics approach,no
+LPC-044,australian-lesson-plan-creation/rubrics/ela.csv,P-E5,localise,pending-reviewer,Decodable text used for phonics - Australian phonics sequences,no
+LPC-045,australian-lesson-plan-creation/rubrics/ela.csv,P-E6,retain,approved,Counterclaim required in argument writing - retain for senior years,no
+LPC-046,australian-lesson-plan-creation/rubrics/ela.csv,R-E1,retain,approved,Student writes before speaking - retain,no
+LPC-047,australian-lesson-plan-creation/rubrics/science.csv,P-S1,localise,pending-reviewer,Three-dimensional learning targets - adapt to AC Science curriculum structure,yes
+LPC-048,australian-lesson-plan-creation/rubrics/science.csv,P-S2,retain,approved,Phenomenon drives lesson - retain,no
+LPC-049,australian-lesson-plan-creation/rubrics/science.csv,P-S3,retain,approved,Investigation precedes explanation - retain,no
+LPC-050,australian-lesson-plan-creation/rubrics/science.csv,P-S4,retain,approved,CCC named and used - retain,no
+LPC-051,australian-lesson-plan-creation/rubrics/science.csv,P-S5,retain,approved,Model revision present and mechanistic - retain,no
+LPC-052,australian-lesson-plan-creation/rubrics/science.csv,R-S1,retain,approved,CER references investigation evidence - retain,no
+LPC-053,australian-lesson-plan-creation/rubrics/science.csv,R-S2,retain,approved,Quantitative reasoning required - retain,no
+LPC-054,australian-lesson-plan-creation/rubrics/social_studies.csv,P-SS1,localise,pending-reviewer,Compelling question contestable - Australian HASS inquiry approach,yes
+LPC-055,australian-lesson-plan-creation/rubrics/social_studies.csv,P-SS2,retain,approved,Supporting question narrows inquiry - retain,no
+LPC-056,australian-lesson-plan-creation/rubrics/social_studies.csv,P-SS3,localise,pending-reviewer,Primary or secondary sources - Australian curriculum sources,yes
+LPC-057,australian-lesson-plan-creation/rubrics/social_studies.csv,P-SS4,localise,pending-reviewer,Analysis questions C3 progression - adapt to Australian HASS structure,yes
+LPC-058,australian-lesson-plan-creation/rubrics/social_studies.csv,P-SS5,localise,pending-reviewer,Standard attributed correctly - ACARA framework,yes
+LPC-059,australian-lesson-plan-creation/rubrics/social_studies.csv,R-SS1,retain,approved,Formative task requires evidence - retain,no
+LPC-060,australian-lesson-plan-creation/rubrics/social_studies.csv,R-SS2,retain,approved,Background knowledge teacher-facing - retain,no
+LPC-061,add,add,pending-reviewer,Authority/identifier type specified - Australian F-10,yes
+LPC-062,add,add,pending-reviewer,Authority/version/source citation present - all Australian evals,yes
+LPC-063,add,add,pending-reviewer,No curriculum code fabrication - all Australian evals,yes
+LPC-064,add,add,pending-reviewer,Ambiguity handling for Australian codes - all Australian evals,no
+LPC-065,add,add,pending-reviewer,Invalid/superseded code detection - all Australian evals,yes
+LPC-066,add,add,pending-reviewer,No connector fallback validation - all Australian evals,no
+LDIFF-001,australian-lesson-differentiation/rubrics/differentiation.csv,P1,retain,approved,Standard scope preserved across tiers - ACARA codes,yes
+LDIFF-002,australian-lesson-differentiation/rubrics/differentiation.csv,P2,retain,approved,Prereq/forward grounding - ACARA codes,yes
+LDIFF-003,australian-lesson-differentiation/rubrics/differentiation.csv,P3,retain,approved,Scaffolds support thinking - retain,no
+LDIFF-004,australian-lesson-differentiation/rubrics/differentiation.csv,P4,retain,approved,Proficiency-based differentiation - retain,no
+LDIFF-005,australian-lesson-differentiation/rubrics/differentiation.csv,P5,retain,approved,Invisible-modifications rule - retain,no
+LDIFF-006,australian-lesson-differentiation/rubrics/differentiation.csv,P6,retain,approved,Concrete representations at Below tier - retain,no
+LDIFF-007,australian-lesson-differentiation/rubrics/differentiation.csv,P7,retain,approved,Scaffold fade pattern - retain,no
+LDIFF-008,australian-lesson-differentiation/rubrics/differentiation.csv,P8,retain,approved,Flexible grouping language - retain,no
+LDIFF-009,australian-lesson-differentiation/rubrics/differentiation.csv,P9,retain,approved,No curriculum bleed-through - ACARA context,no
+LDIFF-010,australian-lesson-differentiation/rubrics/differentiation.csv,R1,retain,approved,Cognitive demand preserved across tiers - retain,no
+LDIFF-011,australian-lesson-differentiation/rubrics/differentiation.csv,R2,retain,approved,Engagement preserved at Below tier - retain,no
+LDIFF-012,australian-lesson-differentiation/rubrics/differentiation.csv,R3,retain,approved,Student agency prompt on each worksheet - retain,no
+LDIFF-013,australian-lesson-differentiation/rubrics/differentiation.csv,O1,retain,approved,Correct file structure - retain,no
+LDIFF-014,australian-lesson-differentiation/rubrics/differentiation.csv,O2,retain,approved,Formative checks included - retain,no
+LDIFF-015,australian-lesson-differentiation/rubrics/differentiation.csv,O3,retain,approved,Anchor activity included - retain,no
+LDIFF-016,australian-lesson-differentiation/rubrics/differentiation.csv,O4,retain,approved,Teacher rationale notes - retain,no
+LDIFF-017,australian-lesson-differentiation/rubrics/differentiation.csv,O5,retain,approved,Universal design access features - retain,no
+LDIFF-018,australian-lesson-differentiation/rubrics/differentiation.csv,O6,retain,approved,Teacher/student artifact alignment - retain,no
+LDIFF-019,australian-lesson-differentiation/rubrics/differentiation.csv,O7,retain,approved,Closing next-steps section present - retain,no
+LDIFF-020,australian-lesson-differentiation/rubrics/differentiation.csv,M1,retain,approved,Source lesson detected - retain,no
+LDIFF-021,australian-lesson-differentiation/rubrics/differentiation.csv,M2,retain,approved,Learner needs question - EAL/D + NCCD context,no
+LDIFF-022,australian-lesson-differentiation/rubrics/differentiation.csv,M3,retain,approved,Asks scope if needed - retain,no
+LDIFF-023,australian-lesson-differentiation/rubrics/differentiation.csv,M4,retain,approved,Iteration options at close - retain,no
+LDIFF-024,australian-lesson-differentiation/rubrics/differentiation.csv,O10,retain,approved,Student-facing voice - retain,no
+LDIFF-025,australian-lesson-differentiation/rubrics/differentiation.csv,O8,retain,approved,Information density - retain,no
+LDIFF-026,australian-lesson-differentiation/rubrics/differentiation.csv,O9,retain,approved,Writing space matches demand - retain,no
+LDIFF-027,australian-lesson-differentiation/rubrics/differentiation.csv,P10,retain,approved,Standards economy - ACARA codes,yes
+LDIFF-028,australian-lesson-differentiation/rubrics/clarifying_question.csv,M-CLARIFY-STATE,localise,pending-reviewer,Asks for state when unknown - adapt for ACARA/QCAR context,yes
+LDIFF-029,add,add,pending-reviewer,EAL/D learner differentiation - F-10 differentiation scenario,no
+LDIFF-030,add,add,pending-reviewer,Reasonable adjustments - F-10 differentiation scenario,no
+LPREP-001,australian-lesson-preparation/rubrics/internalization.csv,P1,retain,approved,Sticking points from working the lesson - retain,no
+LPREP-002,australian-lesson-preparation/rubrics/internalization.csv,P1b,retain,approved,Sticking points draw on KG misconception data - retain,no
+LPREP-003,australian-lesson-preparation/rubrics/internalization.csv,P2,retain,approved,Curriculum coherence - ACARA context,no
+LPREP-004,australian-lesson-preparation/rubrics/internalization.csv,P3,retain,approved,Load-bearing vocabulary surfaced - retain,no
+LPREP-005,australian-lesson-preparation/rubrics/internalization.csv,R1,retain,approved,Work uses lesson intended strategy - retain,no
+LPREP-006,australian-lesson-preparation/rubrics/internalization.csv,R2,retain,approved,Sticking points reflect genuine difficulty - retain,no
+LPREP-007,australian-lesson-preparation/rubrics/internalization.csv,R3,retain,approved,Difficulty attributed correctly - retain,no
+LPREP-008,australian-lesson-preparation/rubrics/internalization.csv,R4,retain,approved,Factual errors corrected - retain,no
+LPREP-009,australian-lesson-preparation/rubrics/internalization.csv,O1,retain,approved,Note is short - retain,no
+LPREP-010,australian-lesson-preparation/rubrics/internalization.csv,O2,retain,approved,Note organized by lesson parts - retain,no
+LPREP-011,australian-lesson-preparation/rubrics/internalization.csv,M1,retain,approved,Entry point handled correctly - retain,no
+LPREP-012,australian-lesson-preparation/rubrics/internalization.csv,M2,retain,approved,Teacher answers before model delivers - retain,no
+LPREP-013,australian-lesson-preparation/rubrics/internalization.csv,M3,retain,approved,No process overhead in conversation - retain,no
+LPREP-014,australian-lesson-preparation/rubrics/internalization.csv,M4,retain,approved,Teacher can stop anytime - retain,no
+LPREP-015,australian-lesson-preparation/rubrics/internalization.csv,M5,retain,approved,Teacher actually participated - retain,no
+LPREP-016,australian-lesson-preparation/rubrics/internalization.csv,M6,retain,approved,Near-miss from teacher - retain,no
+LPREP-017,add,add,pending-reviewer,QCAA Business lesson preparation - QCAA senior syllabus context,yes
+LPREP-018,add,add,pending-reviewer,QCAA Food Nutrition lesson preparation - QCAA senior syllabus context,yes
+LCFU-001,australian-check-for-understanding/rubrics/math.csv,P1,localise,pending-reviewer,Standard correctly identified and scoped - ACARA/QCAA codes,yes
+LCFU-002,australian-check-for-understanding/rubrics/math.csv,P2,retain,approved,Rigor correctly identified - retain,no
+LCFU-003,australian-check-for-understanding/rubrics/math.csv,P3,retain,approved,No over-decomposition - retain,no
+LCFU-004,australian-check-for-understanding/rubrics/math.csv,P4,retain,approved,Language demands dont interfere - retain,no
+LCFU-005,australian-check-for-understanding/rubrics/math.csv,P5,retain,approved,Learning goal is specific - retain,no
+LCFU-006,australian-check-for-understanding/rubrics/math.csv,P6,retain,approved,Grade-appropriate number values - retain,no
+LCFU-007,australian-check-for-understanding/rubrics/math.csv,P7,retain,approved,Coherence map grounds routing - retain,no
+LCFU-008,australian-check-for-understanding/rubrics/math.csv,P8,retain,approved,Focus constraints verifiable - retain,no
+LCFU-009,australian-check-for-understanding/rubrics/math.csv,P9,retain,approved,Prereq vs on-grade errors distinguished - retain,no
+LCFU-010,australian-check-for-understanding/rubrics/math.csv,P10,retain,approved,Prereq errors routed to named prior standard - retain,no
+LCFU-011,australian-check-for-understanding/rubrics/math.csv,P11,retain,approved,Next-step guidance names specific move - retain,no
+LCFU-012,australian-check-for-understanding/rubrics/math.csv,P12,retain,approved,Asset-based language no deficit framing - retain,no
+LCFU-013,australian-check-for-understanding/rubrics/math.csv,R1,retain,approved,Item format appropriate for rigor type - retain,no
+LCFU-014,australian-check-for-understanding/rubrics/math.csv,R2,retain,approved,Visual representation for conceptual K-8 - retain,no
+LCFU-015,australian-check-for-understanding/rubrics/math.csv,R3,retain,approved,Student work shown for procedural - retain,no
+LCFU-016,australian-check-for-understanding/rubrics/math.csv,R4,retain,approved,Most revealing case targeted - retain,no
+LCFU-017,australian-check-for-understanding/rubrics/math.csv,R5,retain,approved,Every item reveals thinking - retain,no
+LCFU-018,australian-check-for-understanding/rubrics/math.csv,R6,retain,approved,Mathematical accuracy - single correct answer - retain,no
+LCFU-019,australian-check-for-understanding/rubrics/math.csv,O1,localise,pending-reviewer,Standard in meta verbatim - ACARA/QCAA codes,yes
+LCFU-020,australian-check-for-understanding/rubrics/math.csv,O2,retain,approved,Learning goal and rigor labeled in meta - retain,no
+LCFU-021,australian-check-for-understanding/rubrics/math.csv,O3,retain,approved,Interpretation guide present for each item - retain,no
+LCFU-022,australian-check-for-understanding/rubrics/math.csv,O4,retain,approved,Next steps actionable and differentiated - retain,no
+LCFU-023,australian-check-for-understanding/rubrics/math.csv,O5,retain,approved,CFU is brief - retain,no
+LCFU-024,australian-check-for-understanding/rubrics/math.csv,O6,retain,approved,Student handout carries no teacher content - retain,no
+LCFU-025,australian-check-for-understanding/rubrics/math.csv,O7,retain,approved,Item text identical across files - retain,no
+LCFU-026,australian-check-for-understanding/rubrics/math.csv,O8,retain,approved,Response patterns describe observable behaviour - retain,no
+LCFU-027,australian-check-for-understanding/rubrics/math.csv,O9,retain,approved,Interpretation guide LLM-scorable - retain,no
+LCFU-028,australian-check-for-understanding/rubrics/math.csv,O11,retain,approved,No third-party source attribution - retain,no
+LCFU-029,australian-check-for-understanding/rubrics/math.csv,M1,retain,approved,Asks for grade when not given - retain,no
+LCFU-030,australian-check-for-understanding/rubrics/math.csv,M2,retain,approved,States focus and stops for confirmation - retain,no
+LCFU-031,australian-check-for-understanding/rubrics/math.csv,M3,retain,approved,Re-scopes when teacher redirects - retain,no
+LCFU-032,australian-check-for-understanding/rubrics/math.csv,O12,retain,approved,Figures state in text what they show - retain,no
+LCFU-033,australian-check-for-understanding/rubrics/math.csv,P13,retain,approved,Student-facing language grade-appropriate - retain,no
+LCFU-034,australian-check-for-understanding/rubrics/math.csv,P14,retain,approved,Learning goal and focus plain teacher language - retain,no
+LCFU-035,australian-check-for-understanding/rubrics/math.csv,O13,retain,approved,Figure text does not answer item - retain,no
+LCFU-036,add,add,pending-reviewer,Australian F-10 Mathematics CFU - Mathematics check for F-10,yes
+LCFU-037,add,add,pending-reviewer,QCAA Food Nutrition check for understanding - QCAA senior syllabus,yes
