@@ -2,12 +2,14 @@
 """Validate localisation contract tests against the current baseline.
 
 Run with: python3 scripts/validate_localisation.py
+Capture a historical RED baseline with: python3 scripts/validate_localisation.py --baseline-red
 
 This script checks various localisation contract rules and prints a summary,
-then writes the failing output to docs/localisation/validation/baseline-red.md.
+then writes current output to docs/localisation/validation/current-validation.md.
 """
 
 import csv
+import argparse
 import json
 import os
 import re
@@ -246,7 +248,14 @@ def check_duplicate_scripts():
 
 
 def main():
-    """Run all validation checks and produce baseline-red.md."""
+    """Run all validation checks and produce a current or baseline report."""
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--baseline-red",
+        action="store_true",
+        help="Write the historical RED-baseline report instead of the current report.",
+    )
+    args = parser.parse_args()
     VALIDATION_DIR.mkdir(parents=True, exist_ok=True)
 
     all_failures = []
@@ -284,11 +293,16 @@ def main():
     print(f"\nTotal failing checks: {total}")
     print("=" * 60)
 
-    # Write baseline-red.md
-    baseline_path = VALIDATION_DIR / "baseline-red.md"
-    with open(baseline_path, "w") as out:
-        out.write("## Localisation Contract Validation Baseline (RED - US-only baseline)\n\n")
-        out.write("_This file captures the expected failures when running the contract tests against the current (US-only) baseline._\n\n")
+    report_path = VALIDATION_DIR / (
+        "baseline-red.md" if args.baseline_red else "current-validation.md"
+    )
+    with open(report_path, "w") as out:
+        heading = (
+            "## Localisation Contract Validation Baseline (RED - US-only baseline)"
+            if args.baseline_red
+            else "## Localisation Contract Validation (Current)"
+        )
+        out.write(heading + "\n\n")
         out.write("=" * 60 + "\n")
         out.write("LOCALISATION CONTRACT VALIDATION SUMMARY\n")
         out.write("=" * 60 + "\n")
@@ -300,12 +314,13 @@ def main():
                 out.write(f"  FAIL: {f}\n")
         out.write(f"\nTotal failing checks: {total}\n")
         out.write("=" * 60 + "\n")
-        out.write(
-            "NOTE: These failures are EXPECTED for the US-only baseline. "
-            "After implementing Australian localisation (renaming skills, replacing US terminology, updating source registers), these tests should pass.\n"
-        )
+        if args.baseline_red:
+            out.write(
+                "NOTE: These failures are EXPECTED for the US-only baseline. "
+                "After implementing Australian localisation, these tests should pass.\n"
+            )
 
-    print(f"\nBaseline written to: {baseline_path}")
+    print(f"\nValidation report written to: {report_path}")
 
 
 if __name__ == "__main__":
