@@ -1,4 +1,4 @@
-# Contributing to k12-teacher-skills
+# Contributing to australian-teacher-skills
 
 Thank you for your interest in contributing. This document explains the process and what to expect.
 
@@ -17,7 +17,7 @@ None.
 ### Development setup
 
 ```
-git clone https://github.com/anthropics/k12-teacher-skills
+git clone https://github.com/anthropics/australian-teacher-skills
 ```
 
 ### Running tests
