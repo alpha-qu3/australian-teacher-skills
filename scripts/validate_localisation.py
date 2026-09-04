@@ -201,16 +201,22 @@ def check_skill_links():
         if not skill_md.exists():
             continue
         text = skill_md.read_text(errors="replace")
-        # Find referenced files using relative paths like `references/...` or backticks
-        refs = re.findall(r"`([^`]+)`", text)
+        refs = []
+        # Match backtick-quoted paths that have a path separator (/)
+        # These are actual file references like `references/output.md` or `scripts/render.sh`
+        for m in re.finditer(r"`[a-zA-Z0-9_/\.\-]+/[a-zA-Z0-9_/\.\-]+\.(?:md|json|sh|py|css|yml|yaml)`", text):
+            refs.append(m.group(0).strip("`"))
+        # Match actual Markdown links [text](path) with file extensions
+        for m in re.finditer(r"\[([^\]]+)\]\(([^)]+\.(?:md|json|sh|py|css|yml|yaml))\)", text):
+            refs.append(m.group(2))
         for ref in refs:
-            # Convert to path relative to repo root
-            parts = ref.strip().split("/")
-            # Skip absolute or non-relative paths
+            ref_clean = ref.strip()
+            parts = ref_clean.split("/")
+            # Skip absolute or parent-relative paths
             if parts[0].startswith("/") or parts[0] in {".", ".."}:
                 continue
-            # Build path
-            p = REPO_ROOT / ref.strip("`")
+            # Build path relative to the skill directory (where SKILL.md lives)
+            p = skill_md.parent / ref_clean
             if not p.exists():
                 failures.append(f"Skill link {skill_md}: referenced file '{ref}' does not exist")
     return failures

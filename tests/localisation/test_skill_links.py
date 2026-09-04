@@ -14,10 +14,17 @@ def find_skill_files():
 
 
 def find_linked_references(skill_md):
-    """Extract file references from backtick-quoted paths in SKILL.md."""
+    """Extract file references from backtick-quoted paths and Markdown links in SKILL.md."""
     text = skill_md.read_text(errors="replace")
-    # Match backtick-quoted relative paths that look like file references
-    refs = re.findall(r"`([a-zA-Z][a-zA-Z0-9_/\.\-]*\.(?:md|json|sh|py|css|yml|yaml))`", text)
+    refs = []
+    # Match backtick-quoted paths that have a path separator (/)
+    # These are actual file references like `references/output.md` or `scripts/render.sh`
+    # Exclude bare filenames like `lesson.json` with no path prefix
+    for m in re.finditer(r"`[a-zA-Z0-9_/\.\-]+/[a-zA-Z0-9_/\.\-]+\.(?:md|json|sh|py|css|yml|yaml)`", text):
+        refs.append(m.group(0).strip("`"))
+    # Match actual Markdown links [text](path) with file extensions
+    for m in re.finditer(r"\[([^\]]+)\]\(([^)]+\.(?:md|json|sh|py|css|yml|yaml))\)", text):
+        refs.append(m.group(2))
     return refs
 
 

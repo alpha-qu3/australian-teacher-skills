@@ -54,7 +54,11 @@ def load_allowlist():
     for line in content.splitlines():
         line = line.strip()
         if line.startswith("- ") or line.startswith("*"):
-            term = line[2:].strip().strip("'\"")
+            term = line[2:].strip()
+            # Strip inline comments
+            if "#" in term:
+                term = term.split("#")[0].strip()
+            term = term.strip("'\"")
             if term:
                 terms.add(term.lower())
     return terms

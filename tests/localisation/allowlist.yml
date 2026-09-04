@@ -11,5 +11,6 @@
 - "NGSS"          # Historical: referenced in science reference files and skill instructions
 - "OpenSciEd"     # Historical: curriculum name in science reference files
 - "Illustrative Mathematics"  # Historical: curriculum name in math reference files
-- "Learning Commons"  # Upstream platform name
-- "Learning Commons Knowledge Graph"  # Upstream platform component
+- "Learning Commons"  # Unavoidable attribution: required in copyright/license NOTICE in SKILL.md frontmatter (line beginning with 'license:')
+- "Learning Commons Knowledge Graph"  # Unavoidable attribution: required in copyright/license NOTICE in SKILL.md frontmatter (line beginning with 'license:')
+- "ELA"           # Abbreviation for English in file references (e.g. references/ela.md)
