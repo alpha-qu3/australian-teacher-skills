@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-068-001",
+  "qsub_id": "QSUB-0068",
+  "subject": "Psychology",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/psychology",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Psychology",
+      "document_title": "Psychology General senior syllabus 2025 (v1.3)",
+      "version_or_effective_year": "2025 v1.3 (implementation from 2026)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_psychology_25_syll.pdf",
+      "locator": "Full source: PDF syllabus, 61 physical pages (printed pagination 1-57); cover states 'Psychology 2025 v1.3 General senior syllabus', January 2026; objectives at printed page 4; units 1-4 at pages 20-37; assessment model at pages 38-50; version history at pages 56-57",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Psychology",
+      "document_title": "Psychology General senior syllabus 2025 v1.3 (live subject page)",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/psychology",
+      "locator": "Full source: HTML landing page titled 'Psychology General senior syllabus'; Syllabus section lists Psychology 2025 v1.3 (PDF); Resources sections for past papers, sample assessment instruments, sample marking schemes, subject reports; CC BY 4.0 footer; last updated 13 April 2026",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Psychology",
+      "document_title": "Key senior subject changes: For external assessment in 2026",
+      "version_or_effective_year": "2026",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_key_subj_changes_ea_26.pdf",
+      "locator": "Full source: PDF, 17 pages; 'Key senior subject changes: For external assessment in 2026'; lists Psychology among subjects with external assessment in 2026",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/psychology"
+}

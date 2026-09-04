@@ -1,0 +1,82 @@
+{
+  "fixture_id": "QA-049-001",
+  "qsub_id": "QSUB-0049",
+  "subject": "Information & Communication Technology",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/information-communication-technology-skills",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Technologies",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies",
+      "document_title": "Information & Communication Technology Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.3 (for implementation with students completing the course in 2025 or beyond; page issued 13 September 2024)",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/information-communication-technology-skills",
+      "locator": "HTML page; #content; Syllabus section lists Information & Communication Technology Applied senior syllabus 2024 with the v1.3 PDF link; Resources > Sample assessment instruments (B1 Product proposal, B2 Project); dcterms.creator and dcterms.publisher identify Queensland Curriculum and Assessment Authority; dcterms.license https://creativecommons.org/licenses/by/4.0/; last updated 13 September 2024",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies",
+      "document_title": "Information & Communication Technology 2024 v1.3 Applied senior syllabus (PDF)",
+      "version_or_effective_year": "2024 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_ict_24_app_syll.pdf",
+      "locator": "PDF printed pp. 1-76; cover (January 2026); licence and copyright p. 2; syllabus objectives p. 3; course structure pp. 4-7; unit options pp. 10-33 (A Robotics, B App development, C Audio and video production, D Layout and publishing, E Digital imaging and modelling, F Web development); assessment pp. 34-75 (each option X1 Product proposal, X2 Project); glossary, references and version history p. 76",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies",
+      "document_title": "Sample assessment instrument: B1 - Product proposal (Option B)",
+      "version_or_effective_year": "2024",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/technologies/snr_ict_24_app_smple_ass_inst_product_proposal_b1.pdf",
+      "locator": "PDF (7 pages); PDF metadata title 'Information and Communication Technology 2024 v1.1: Sample assessment instrument - B1: Product proposal'; author Queensland Curriculum and Assessment Authority; licence and copyright notice on final page; listed under the current syllabus page Resources > Sample assessment instruments",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies",
+      "document_title": "Sample assessment instrument: B2 - Project (Option B)",
+      "version_or_effective_year": "2024",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/technologies/snr_ict_24_app_smple_ass_inst_project_b2.pdf",
+      "locator": "PDF (8 pages); PDF metadata title 'Information and Communication Technology 2024 v1.1: Sample assessment instrument - B2: Project'; author Queensland Curriculum and Assessment Authority; licence and copyright notice on final page; listed under the current syllabus page Resources > Sample assessment instruments",
+      "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/information-communication-technology-skills"
+}

@@ -1,0 +1,50 @@
+{
+  "fixture_id": "QA-015-001",
+  "qsub_id": "QSUB-0015",
+  "subject": "Chemistry",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/chemistry",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Chemistry",
+      "document_title": "Chemistry General senior syllabus",
+      "version_or_effective_year": "Chemistry 2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/chemistry",
+      "locator": "HTML: #content; Syllabus; Resources > Associated material, Sample assessment instruments, Sample marking schemes, Past papers (2020-2025); last updated 13 April 2026",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Chemistry",
+      "document_title": "Chemistry 2025 v1.3 General senior syllabus",
+      "version_or_effective_year": "Chemistry 2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_chemistry_25_syll.pdf",
+      "locator": "PDF: cover; p. 4 (syllabus objectives); pp. 19, 26, 31, 38 (units); pp. 44, 47, 51, 55 (assessment); p. 59 (version history); 63 physical pages",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/chemistry"
+}

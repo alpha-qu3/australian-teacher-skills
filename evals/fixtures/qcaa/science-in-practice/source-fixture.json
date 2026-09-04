@@ -1,0 +1,82 @@
+{
+  "fixture_id": "QA-070-001",
+  "qsub_id": "QSUB-0070",
+  "subject": "Science in Practice",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/science-in-practice",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Sciences",
+      "document_title": "Science in Practice Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/science-in-practice",
+      "locator": "HTML: #content; Syllabus; Resources > Sample assessment instruments; last updated 13 September 2024",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Sciences",
+      "document_title": "Science in Practice 2024 v1.2 Applied senior syllabus",
+      "version_or_effective_year": "2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_science_prac_24_app_syll.pdf",
+      "locator": "PDF: cover; pp. 2-3 (rationale, syllabus objectives); pp. 4-10 (course structure, assessment, reporting); pp. 11-28 (unit options A-F); pp. 29-64 (assessment specifications A1-F2); p. 65 (glossary, references, version history)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Sciences",
+      "document_title": "Sample assessment instrument: Investigation \u2014 Environmental study (Unit 3)",
+      "version_or_effective_year": "2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_science_prac_19_app_smple_ass_inst_investigation.pdf",
+      "locator": "PDF (5 pages; 103.5 KB as listed)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Sciences",
+      "document_title": "Sample assessment instrument: Project \u2014 Heat-efficient house (Unit 4)",
+      "version_or_effective_year": "2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/sciences/snr_science_prac_19_app_smple_ass_inst_project.pdf",
+      "locator": "PDF (5 pages; 101.3 KB as listed)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/science-in-practice"
+}

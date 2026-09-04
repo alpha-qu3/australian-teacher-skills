@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-001-001",
+  "qsub_id": "QSUB-0001",
+  "subject": "Aboriginal & Torres Strait Islander Languages",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/aboriginal-torres-strait-islander-languages",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Languages",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Languages",
+      "document_title": "Aboriginal & Torres Strait Islander Languages Short Course syllabus (HTML page)",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/aboriginal-torres-strait-islander-languages",
+      "locator": "HTML page / syllabus navigation section; page states 'Aboriginal & Torres Strait Islander Languages Short Course syllabus 2025' with implementation for students completing the course in 2025 or beyond; associated material links the factsheet",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Languages",
+      "document_title": "Aboriginal & Torres Strait Islander Languages 2025 v1.3 Short Course senior syllabus PDF",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_atsi_lang_25_short_course_syll.pdf",
+      "locator": "PDF (600.8 KB), 38 pages; cover and title page confirm subject name and version 2025 v1.3 (January 2026); pp. 4-5 syllabus objectives; pp. 21-27 topics (Topic 1 Making connections; Topic 2 Storytelling); pp. 28-33 assessment (IA1 and IA2)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Languages",
+      "document_title": "Factsheet: Aboriginal & Torres Strait Islander Languages Short Course",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_atsi_lang_25_short_course_syll_factsheet.pdf",
+      "locator": "PDF (133.8 KB), 2 pages; course overview, course structure (55 hours, 1 QCE credit), Topics 1-2, assessment (two internal projects), learning outcomes",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/languages/aboriginal-torres-strait-islander-languages"
+}

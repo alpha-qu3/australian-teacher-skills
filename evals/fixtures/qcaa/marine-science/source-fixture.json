@@ -1,0 +1,50 @@
+{
+  "fixture_id": "QA-055-001",
+  "qsub_id": "QSUB-0055",
+  "subject": "Marine Science",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/marine-science",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Sciences",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Marine Science",
+      "document_title": "Marine Science General senior syllabus 2025 (official subject page)",
+      "version_or_effective_year": "2025 v1.3 (implementation from 2026); last updated 13 April 2026",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/marine-science",
+      "locator": "Full-source locator: HTML syllabus section (current syllabus, associated material, resources)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Marine Science",
+      "document_title": "Marine Science 2025 v1.3 General senior syllabus",
+      "version_or_effective_year": "2025 v1.3 (January 2026)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_marine_science_25_syll.pdf",
+      "locator": "Full-source locator: PDF pages 1-52; objectives p. 4; course structure pp. 5-7; units pp. 19, 23, 27, 33; assessment pp. 38, 41, 45, 49; version history p. 52",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/sciences/marine-science"
+}

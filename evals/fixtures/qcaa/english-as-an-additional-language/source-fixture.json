@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-032-001",
+  "qsub_id": "QSUB-0032",
+  "subject": "English as an Additional Language",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english-as-an-additional-language",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "English",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "English",
+      "document_title": "English as an Additional Language General senior syllabus (HTML page)",
+      "version_or_effective_year": "2025 v1.3",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english-as-an-additional-language",
+      "locator": "HTML page; main heading 'English as an Additional Language General senior syllabus'; Syllabus section lists 'English as an Additional Language General senior syllabus 2025' with 'For implementation with students who will complete their study of the course in 2026 or beyond' and 'English as an Additional Language 2025 v1.3 (PDF, 625.6 KB)'; associated material and resources sections; last updated 15 June 2026",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "English",
+      "document_title": "English as an Additional Language 2025 v1.3 General senior syllabus PDF",
+      "version_or_effective_year": "2025 v1.3 (implementation from 2026)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_english_add_lang_25_syll.pdf",
+      "locator": "PDF, 53 pages (rendered representation); cover 'English as an Additional Language 2025 v1.3 General senior syllabus', January 2026; syllabus objectives, unit structure (Units 1-4), four assessment instruments and version history v1.0-v1.3",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "English",
+      "document_title": "Key senior subject changes: For external assessment in 2026",
+      "version_or_effective_year": "2026",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/common/snr_key_subj_changes_ea_26.pdf",
+      "locator": "PDF, 17 pages (rendered representation); lists English as an Additional Language among subjects with external assessment in 2026; 'Students respond to an unseen question related to a literary text from the external assessment section of the prescribed text list'",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/english/english-as-an-additional-language"
+}

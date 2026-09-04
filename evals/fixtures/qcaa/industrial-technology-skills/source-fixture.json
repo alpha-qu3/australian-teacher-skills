@@ -1,0 +1,82 @@
+{
+  "fixture_id": "QA-048-001",
+  "qsub_id": "QSUB-0048",
+  "subject": "Industrial Technology Skills",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/industrial-technology-skills",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "Technologies",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Industrial Technology Skills",
+      "document_title": "Industrial Technology Skills Applied senior syllabus (subject page)",
+      "version_or_effective_year": "2024 (page last updated 13 September 2024)",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/industrial-technology-skills",
+      "locator": "HTML page / syllabus navigation section",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Industrial Technology Skills",
+      "document_title": "Industrial Technology Skills 2024 v1.3 Applied senior syllabus (PDF)",
+      "version_or_effective_year": "2024 v1.3 (January 2026)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_ind_tech_24_app_syll.pdf",
+      "locator": "PDF, 466.3 KB; 83 content pages; version history p. 83",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Industrial Technology Skills",
+      "document_title": "Sample assessment instrument: L1 - Practical demonstration - Manufacturing engineering (Engineering Skills)",
+      "version_or_effective_year": "2024 v1.2 (April 2024)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/technologies/snr_ind_tech_24_app_l1_smple_ass_inst_prac_demo.pdf",
+      "locator": "PDF, 159.4 KB; 6 pages",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Technologies - Industrial Technology Skills",
+      "document_title": "Sample assessment instrument: L2 - Project - Manufacturing engineering (Engineering Skills)",
+      "version_or_effective_year": "2024 v1.2 (April 2024)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/technologies/snr_ind_tech_24_app_l2_smple_ass_inst_project.pdf",
+      "locator": "PDF, 177.1 KB; 6 pages",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/technologies/industrial-technology-skills"
+}

@@ -1,0 +1,66 @@
+{
+  "fixture_id": "QA-078-001",
+  "qsub_id": "QSUB-0078",
+  "subject": "Visual Arts in Practice",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/visual-arts-in-practice",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "The Arts",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Visual Arts in Practice",
+      "document_title": "Visual Arts in Practice Applied senior syllabus",
+      "version_or_effective_year": "Visual Arts in Practice 2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/visual-arts-in-practice",
+      "locator": "HTML: #content; Syllabus; Resources > Sample assessment instruments; last updated 13 September 2024",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Visual Arts in Practice",
+      "document_title": "Visual Arts in Practice 2024 v1.2 Applied senior syllabus",
+      "version_or_effective_year": "Visual Arts in Practice 2024 v1.2",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_visual_art_prac_24_app_syll.pdf",
+      "locator": "PDF; cover; p. 3 (syllabus objectives); p. 4 (designing a course of study); pp. 12-13 (reporting standards and determining/reporting results); pp. 14-16 (unit option A); pp. 17-19 (unit option B); pp. 20-22 (unit option C); pp. 23-25 (unit option D); pp. 26-45 (assessment specifications and instrument-specific standards); p. 46 (glossary; references; version history)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Visual Arts in Practice",
+      "document_title": "Visual Arts in Practice 2019 v1.0 Sample assessment instrument: Project \u2014 Belonging",
+      "version_or_effective_year": "Visual Arts in Practice 2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/arts/snr_visual_art_prac_19_app_smple_ass_inst_project.pdf",
+      "locator": "PDF; cover; p. 1 (task); p. 2 (checkpoints); pp. 3-5 (instrument-specific standards matrix)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-09-02"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/visual-arts-in-practice"
+}

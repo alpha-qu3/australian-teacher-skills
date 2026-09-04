@@ -1,0 +1,82 @@
+{
+  "fixture_id": "QA-057-001",
+  "qsub_id": "QSUB-0057",
+  "subject": "Media Arts in Practice",
+  "authority_source": {
+    "name": "QCAA",
+    "type": "statutory curriculum authority",
+    "evidence_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/media-arts-in-practice",
+    "verification_status": "verified"
+  },
+  "jurisdiction": "Queensland",
+  "school_phase": "Years 11-12",
+  "learning_area": "The Arts",
+  "sources": [
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Media Arts in Practice",
+      "document_title": "Media Arts in Practice Applied senior syllabus HTML page",
+      "version_or_effective_year": "2024 (last updated 13 September 2024)",
+      "url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/media-arts-in-practice",
+      "locator": "HTML: #content; Syllabus; Resources > Sample assessment instruments; dcterms.creator and dcterms.publisher; last updated 13 September 2024",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-08-30"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Media Arts in Practice",
+      "document_title": "Media Arts in Practice 2024 v1.2 Applied senior syllabus (PDF)",
+      "version_or_effective_year": "2024 v1.2 (version history: 1.0 January 2023; 1.1 August 2023; 1.2 January 2026)",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/syllabuses/snr_media_art_prac_24_app_syll.pdf",
+      "locator": "PDF: cover; pp. 3-4 (syllabus objectives); pp. 15, 18, 21, 24 (unit options A-D); pp. 27, 30, 32, 35, 37, 40, 42, 45 (assessments A1-D2); p. 47 (version history)",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-08-30"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Media Arts in Practice",
+      "document_title": "Sample assessment instrument: Project (Unit 3)",
+      "version_or_effective_year": "2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/arts/snr_media_art_prac_19_app_smple_ass_inst_project.pdf",
+      "locator": "PDF (101.6 KB); listed under Resources > Sample assessment instruments on the current syllabus page",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-08-30"
+    },
+    {
+      "authority_name": "QCAA",
+      "authority_type": "statutory curriculum authority",
+      "authority_evidence_url": "https://www.qcaa.qld.edu.au/about/governance/legislation",
+      "publication_owner": "Queensland Curriculum and Assessment Authority",
+      "authority_verification_status": "verified",
+      "jurisdiction": "Queensland",
+      "school_phase": "Years 11-12",
+      "learning_area_or_subject": "Media Arts in Practice",
+      "document_title": "Sample assessment instrument: Product \u2014 Careers (Unit 4)",
+      "version_or_effective_year": "2019 v1.0",
+      "url": "https://www.qcaa.qld.edu.au/downloads/senior-qce/arts/snr_media_art_prac_19_app_smple_ass_inst_product.pdf",
+      "locator": "PDF (210.7 KB); listed under Resources > Sample assessment instruments on the current syllabus page",
+      "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+      "retrieval_date": "2026-08-30"
+    }
+  ],
+  "mapping_status": "pending-reviewer",
+  "official_url": "https://www.qcaa.qld.edu.au/senior/senior-subjects/syllabuses/the-arts/media-arts-in-practice"
+}
