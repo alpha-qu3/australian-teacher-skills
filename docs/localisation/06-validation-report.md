@@ -35,6 +35,17 @@ The user authorised reduced human-gate strictness for deterministic Tasks 7-11. 
 3. Model-matrix behavioural evaluations, renderer smoke tests, and visual HTML/DOCX inspection remain release tasks.
 4. Task 13 recommendations are proposal-only and require reviewer approval before a separate skill-creation project.
 
+## Task 12 Verification Harnesses (added 2026-09-04)
+
+- `scripts/render_smoke.sh` + `tests/localisation/test_render_smoke.py`: deterministic render smoke for F-10 Maths, QCAA Business, QCAA Food & Nutrition. HTML outputs verified; `.docx` produced when `python-docx` is available, otherwise recorded as a documented fallback rather than a hard failure. `6 passed`.
+- `scripts/evaluate_localisation.py` + `docs/localisation/validation/model-eval-harness.md`: model-matrix evaluation harness. Reads `eval-crosswalk.csv`, covers all required scenario families (F-10, Mathematics CFU, EAL/D differentiation, Business, Food & Nutrition, 78-subject source alignment, ambiguity, invalid/superseded code, no connector), reports per-criterion pass rates, and drives gating from the crosswalk.
+  - **Gating rule:** no criterion with `mapping_status != approved` or unconfirmed required authority may pass. Currently **102 criteria are gated pending the Queensland curriculum reviewer sign-off**.
+  - Dry-run `--no-exec` result:
+    ```
+    OVERALL: NOT RELEASED — pending Queensland curriculum reviewer sign-off (102 criteria)
+    ```
+  - Live model inference is wired via the documented `run_model_evaluation()` stub hook.
+
 ## Known Limits
 
 - The replacement matrix is an authority-source-backed draft scaffold. Pending mapping rows deliberately have no synthetic source IDs.
